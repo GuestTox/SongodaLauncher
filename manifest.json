@@ -4,6 +4,14 @@
   "modloader": "neoforge-21.1.249",
   "mods": [
     {
+      "filename": "createbigcannons-5.11.7+mc.1.21.1.jar",
+      "download_url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/bOiDu0LS/createbigcannons-5.11.7%2Bmc.1.21.1.jar",
+      "hash": {
+        "algorithm": "sha256",
+        "value": "ea017ab94637032d039899d88404838d173fa0e6286657cae6a6c3af459e87ca"
+      }
+    },
+    {
       "filename": "create-enchantment-industry-2.5.3b.jar",
       "provider": "modrinth",
       "project_id": "JWGBpFUP",
