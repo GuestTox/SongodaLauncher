@@ -1,0 +1,1811 @@
+{
+  "pack_version": "1.0.0",
+  "mc_version": "1.21.1",
+  "modloader": "neoforge",
+  "mods": [
+    {
+      "filename": "create-enchantment-industry-2.5.3b.jar",
+      "provider": "modrinth",
+      "project_id": "JWGBpFUP",
+      "version_id": "ASyjJTVL",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "790b80911610279af6a189d17e49f7d4c30d4646117f4208f230b15a58432873767e699afb02a4e6cdedfb104252e3c729f7191ff7f2748fde405d0f7653743c"
+      },
+      "download_url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/ASyjJTVL/create-enchantment-industry-2.5.3b.jar"
+    },
+    {
+      "filename": "YungsBridges-1.21.1-NeoForge-5.1.1.jar",
+      "provider": "modrinth",
+      "project_id": "Ht4BfYp6",
+      "version_id": "urkCzBf6",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "20b07ae4c08974980f976bcae32f18ccb885745d6cd50d4a5d0156eb5c51c29e49f8b2bf7dc2ae160d39b62f2332513bd9850efc5cba13697e36a2ac2848bc3b"
+      },
+      "download_url": "https://cdn.modrinth.com/data/Ht4BfYp6/versions/urkCzBf6/YungsBridges-1.21.1-NeoForge-5.1.1.jar"
+    },
+    {
+      "filename": "veinminer-neoforge-2.11.2+1.21.1.jar",
+      "provider": "modrinth",
+      "project_id": "OhduvhIc",
+      "version_id": "syKekkIm",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "195fdfe9f1358e85218e770c953223825d102f54b5f607857b8893959cd2164a04c921987611a7933592ba89a83aa2bd8f3cec0b1fcf7d87a20b168f88b2cc05"
+      },
+      "download_url": "https://cdn.modrinth.com/data/OhduvhIc/versions/syKekkIm/veinminer-neoforge-2.11.2%2B1.21.1.jar"
+    },
+    {
+      "filename": "BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar",
+      "provider": "modrinth",
+      "project_id": "HXF82T3G",
+      "version_id": "BtZKRp69",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "1569d9ed5b619f99d61a7cf1b2d886b278df2905b3ce9324f8e7a17c5c960312ec681cc06f1ad96644bde2cdc60440d8be9952f0ee0f84f7937210f46fbb21d7"
+      },
+      "download_url": "https://cdn.modrinth.com/data/HXF82T3G/versions/BtZKRp69/BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar"
+    },
+    {
+      "filename": "torchmaster-neoforge-1.21.1-21.1.11.jar",
+      "provider": "modrinth",
+      "project_id": "Tl8ESrhX",
+      "version_id": "1WtG1xOA",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "67d2f02f2146049dd68e9ee69a8df3149b5af1ed43f44c6111bc03de439a3d8a21eee28cc29f1f39c095edf123465ce6d18d51f65f3013931d3efae5726fd381"
+      },
+      "download_url": "https://cdn.modrinth.com/data/Tl8ESrhX/versions/1WtG1xOA/torchmaster-neoforge-1.21.1-21.1.11.jar"
+    },
+    {
+      "filename": "Zeta-1.1-40.jar",
+      "provider": "modrinth",
+      "project_id": "MVARlG2f",
+      "version_id": "9GjNW2Gf",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "a81dcf44f2bfd0fc1a52f00d9ca47a84ad2baf067adedb35eec859f6b9cec7b61ca432e549a3342b10902f84e76d70224cd54400285c8b13a0926835a62c667c"
+      },
+      "download_url": "https://cdn.modrinth.com/data/MVARlG2f/versions/9GjNW2Gf/Zeta-1.1-40.jar"
+    },
+    {
+      "filename": "create-new-age-1.2.0+neoforge-mc1.21.1.jar",
+      "provider": "modrinth",
+      "project_id": "FTeXqI9v",
+      "version_id": "IwtuwMZy",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "5075c6482b800af7044b594ad694855e7d56f386cb0354967eafe99d77e84b4e26ee7f880d287672d24d84ea8086fd074b7695e46632f32f215b31ce859ada72"
+      },
+      "download_url": "https://cdn.modrinth.com/data/FTeXqI9v/versions/IwtuwMZy/create-new-age-1.2.0%2Bneoforge-mc1.21.1.jar"
+    },
+    {
+      "filename": "cnbridge-1.0.0.jar",
+      "provider": "modrinth",
+      "project_id": "Mit4b2tJ",
+      "version_id": "Y91G3nhq",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "3676c8403b3ce27367187f46e4e97f989168c1c0ef94111a157aa095e30f9e4420b1beae9b12ab693de6d9a4d67d10058e95c3aa7aea18d97961096d0c8c5859"
+      },
+      "download_url": "https://cdn.modrinth.com/data/Mit4b2tJ/versions/Y91G3nhq/cnbridge-1.0.0.jar"
+    },
+    {
+      "filename": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "provider": "modrinth",
+      "project_id": "1eAoo2KR",
+      "version_id": "7TVdVtxF",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "583de19b927ce8050c2b7d5e60b75accc69e325e5aac85c27994c82a9dec2e4e078343fa1d4c3a10d4bd7e0e524e0b3b246a18cf03db01e363a1e6f865adcf48"
+      },
+      "download_url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar"
+    },
+    {
+      "filename": "createpropulsion-1.1.5.jar",
+      "provider": "modrinth",
+      "project_id": "ApkoHNO9",
+      "version_id": "H13U56dc",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "6096c9c5cb220219a0b58b56f9fefd63f8b79a0967d326727b4206d62df1813da73956aeae2fa5b839160a1bb5af8e099726d12d2d93f10e5f157beb85bb9c52"
+      },
+      "download_url": "https://cdn.modrinth.com/data/ApkoHNO9/versions/H13U56dc/createpropulsion-1.1.5.jar"
+    },
+    {
+      "filename": "guideme-21.1.17.jar",
+      "provider": "modrinth",
+      "project_id": "Ck4E7v7R",
+      "version_id": "rduAfwb7",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "8b5d8cf7592d7b4759f5347c5acd1b0eb46403437b10b900f535e4cdde59ab1b37d57b71f3f67cdc99a66d55ad5d760f51b55ba2bc50aecf538f8572003e4cbf"
+      },
+      "download_url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/rduAfwb7/guideme-21.1.17.jar"
+    },
+    {
+      "filename": "YungsExtras-1.21.1-NeoForge-5.1.1.jar",
+      "provider": "modrinth",
+      "project_id": "ZYgyPyfq",
+      "version_id": "N2EpMhR7",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "d4ef831a034977abdcaec40a7662adbc37c32cf141c68245250da501f6ada2ce193c5351166fbcf2ffb1c452b60bfca8ac578963332aa4a1b523e43912b8cb8c"
+      },
+      "download_url": "https://cdn.modrinth.com/data/ZYgyPyfq/versions/N2EpMhR7/YungsExtras-1.21.1-NeoForge-5.1.1.jar"
+    },
+    {
+      "filename": "ProjectRed-1.21.1-4.23.0-core.jar",
+      "provider": "modrinth",
+      "project_id": "zIlxygxr",
+      "version_id": "RueNBgM9",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "4880605241bfa4ae6c31cc2af2203ff58d9726a568a87f68f8b27f156d8427038098ca0c5bdc56ee8bdf1767723d7866e7312a9757489bd2f0a21a2be6ca51ff"
+      },
+      "download_url": "https://cdn.modrinth.com/data/zIlxygxr/versions/RueNBgM9/ProjectRed-1.21.1-4.23.0-core.jar"
+    },
+    {
+      "filename": "create-renewable-netherite-2.0.1.jar",
+      "provider": "modrinth",
+      "project_id": "nGq1sdd2",
+      "version_id": "qhKlkgfZ",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "e3f14796b1bd8aa058944839a70616793dd06c9e5e622713c50f950614d865cacae683e5e26325562b3f0fb2117ee094f7e24c3e9681582c56bcc120ec3b4e0d"
+      },
+      "download_url": "https://cdn.modrinth.com/data/nGq1sdd2/versions/qhKlkgfZ/create-renewable-netherite-2.0.1.jar"
+    },
+    {
+      "filename": "LibX-1.21.1-6.0.14.jar",
+      "provider": "modrinth",
+      "project_id": "qEH6GYul",
+      "version_id": "hqDl08eX",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "8a3e08eb3455583ad9c901c3223ffc49881b812cb46a37a0b7920b0ff0e949df9f89ba00aa331c54f48359b978689cda37238d2e35fe3856a67506b33fbf3803"
+      },
+      "download_url": "https://cdn.modrinth.com/data/qEH6GYul/versions/hqDl08eX/LibX-1.21.1-6.0.14.jar"
+    },
+    {
+      "filename": "create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar",
+      "provider": "modrinth",
+      "project_id": "aqYNR6rI",
+      "version_id": "1Z1LCW5Z",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "c7aa3c1c35ff7aa232c0627fc9552b845f834c0319c24bf313539bac755c2f3e3a7454f34b7fd6114b7738598b3aaeb0018775914d3bcbc03f68b797060d3fa9"
+      },
+      "download_url": "https://cdn.modrinth.com/data/aqYNR6rI/versions/1Z1LCW5Z/create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar"
+    },
+    {
+      "filename": "sophisticatedstorage-1.21.1-1.5.91.2127.jar",
+      "provider": "modrinth",
+      "project_id": "hMlaZH8f",
+      "version_id": "H7wGZ8Sl",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "d8548870cb96a6fd6f50b22dc4822a8acc68168c85efb7a1878d2e0f853334011ff3e17a14dfdf2a7f3f7dde0e995046650a5ca12b9b881dc378ff3c3275375b"
+      },
+      "download_url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/H7wGZ8Sl/sophisticatedstorage-1.21.1-1.5.91.2127.jar"
+    },
+    {
+      "filename": "creatorsword-0.2.8b.jar",
+      "provider": "modrinth",
+      "project_id": "98tjHawH",
+      "version_id": "iaZ8mDs0",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "911fb18059bc82818b6d619c99dbe04d6c3ab641577ab76b6fd9c04c9fedd4cf2b224dc2bbd6594f177b645e13acc1fb27a0dd262a7c097cd2c399160af07591"
+      },
+      "download_url": "https://cdn.modrinth.com/data/98tjHawH/versions/iaZ8mDs0/creatorsword-0.2.8b.jar"
+    },
+    {
+      "filename": "createenchantablemachinery-3.6.0+mc1.21.1-neoforge.jar",
+      "provider": "modrinth",
+      "project_id": "eqrvp4NK",
+      "version_id": "Cw5k6c0a",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "1dda17f32d92b92ac2e953f7cc28efd6be4d627ca85f4639654bbc3acdc9c879bf0c1fc2f66e0956874d6e21928c1556df1630ee2243d67683e1eefe26312fc7"
+      },
+      "download_url": "https://cdn.modrinth.com/data/eqrvp4NK/versions/Cw5k6c0a/createenchantablemachinery-3.6.0%2Bmc1.21.1-neoforge.jar"
+    },
+    {
+      "filename": "appleskin-neoforge-mc1.21-3.0.9.jar",
+      "provider": "modrinth",
+      "project_id": "EsAfCjCV",
+      "version_id": "uAKA6Laj",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "f4ea46273e407334b63e262e2555c9a8204f7b5e60f23f272fbaa83ad9e88800e0ee186aca840710df2dbe0a18b37758695fef2ae1a902c10b3706e3de772937"
+      },
+      "download_url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/uAKA6Laj/appleskin-neoforge-mc1.21-3.0.9.jar"
+    },
+    {
+      "filename": "create_more_automation-0.5.2-neoforge-1.21.1.jar",
+      "provider": "modrinth",
+      "project_id": "7iJ65LNI",
+      "version_id": "en1TN4J7",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "01df8317a0316f70b85b3cf0fc5cd7925117367e72de4a43e0f8699590aff727d5bf98656271b61b644c3b92a19d0d4142d1739b54f7bb0a54ff910af32ea3f9"
+      },
+      "download_url": "https://cdn.modrinth.com/data/7iJ65LNI/versions/en1TN4J7/create_more_automation-0.5.2-neoforge-1.21.1.jar"
+    },
+    {
+      "filename": "drivebywire-0.3.0.jar",
+      "provider": "modrinth",
+      "project_id": "KsqvI0hD",
+      "version_id": "zdSwg9kS",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "09e5cac69600e20e56a9bb66d2c1fd60ff36906f47b86bc1dc27efb1624c671f61bca3c774e08d2c28b59839a914ac067f4d97b304a5ac543a7c016756a46952"
+      },
+      "download_url": "https://cdn.modrinth.com/data/KsqvI0hD/versions/zdSwg9kS/drivebywire-0.3.0.jar"
+    },
+    {
+      "filename": "create_aeronautics_toolgun-0.3.6.jar",
+      "provider": "modrinth",
+      "project_id": "5fUBLqeW",
+      "version_id": "pcD0Yutw",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "d239d0438eabf369f4f2a8d07a05f15dca5d8d89fd24fd4f369d2173c92ca7b61a6b6d48a6172896b5f9e43ed15f4b742575390a76983de2de6d4c4639e76e79"
+      },
+      "download_url": "https://cdn.modrinth.com/data/5fUBLqeW/versions/pcD0Yutw/create_aeronautics_toolgun-0.3.6.jar"
+    },
+    {
+      "filename": "citadel-1.21.1-2.7.6.jar",
+      "provider": "modrinth",
+      "project_id": "XjY0RcQj",
+      "version_id": "mIylVpkN",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "81fd425d8910da30d9ce130213e518ed3acf6d6b63c98396668126e17f99f4d8e17348de7f6147ed3639ca59a3d3d79e1f0d78937972732fda04b7ac8a886547"
+      },
+      "download_url": "https://cdn.modrinth.com/data/XjY0RcQj/versions/mIylVpkN/citadel-1.21.1-2.7.6.jar"
+    },
+    {
+      "filename": "jamlib-neoforge-1.3.6+1.21.1.jar",
+      "provider": "modrinth",
+      "project_id": "IYY9Siz8",
+      "version_id": "n6UM6TcS",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "c544322a31b5f3fe045cf80eb39e6bd59f91f209a0e510731daa0a6403a273f582769bb26277ef767b4c1ca6438316959d31a6a08e5aa4b1b5a9184a370e5135"
+      },
+      "download_url": "https://cdn.modrinth.com/data/IYY9Siz8/versions/n6UM6TcS/jamlib-neoforge-1.3.6%2B1.21.1.jar"
+    },
+    {
+      "filename": "create_aeronautics_transmission_linkage-0.2.8.jar",
+      "provider": "modrinth",
+      "project_id": "Y1dq5ioE",
+      "version_id": "FCZZ3ED4",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "af637fc793448928354cb453f794ce08fa14694250a377ae67d4a2d40db7c4a00adcb9f980387947c264e74c575939e9f525ef1f1443b8471c10bf72c52000a5"
+      },
+      "download_url": "https://cdn.modrinth.com/data/Y1dq5ioE/versions/FCZZ3ED4/create_aeronautics_transmission_linkage-0.2.8.jar"
+    },
+    {
+      "filename": "create_optical-0.4.2.jar",
+      "provider": "modrinth",
+      "project_id": "kcZ7kwxx",
+      "version_id": "emVIaw53",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "914359c3ffc9d52a2458e906a155687bbc10b4c989f52f3bb467e2ab63383ab00898b74c8fb4e4c2abe2813fc28dd8cdba30a275361d95bc78c4d526ef95a272"
+      },
+      "download_url": "https://cdn.modrinth.com/data/kcZ7kwxx/versions/emVIaw53/create_optical-0.4.2.jar"
+    },
+    {
+      "filename": "create_connected-1.3.3-mc1.21.1.jar",
+      "provider": "modrinth",
+      "project_id": "Vg5TIO6d",
+      "version_id": "Xe7EqzfQ",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "485675693980a266611669857fa9cd348e2a29140b87bf0a8ab3e13c3591422cceaa36b7a2eb90084d35ec1868c8eec9f924383bb4dada2dddcb72e9f09361b0"
+      },
+      "download_url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/Xe7EqzfQ/create_connected-1.3.3-mc1.21.1.jar"
+    },
+    {
+      "filename": "createmissiles-1.0.3+neoforge-1.21.1.jar",
+      "provider": "modrinth",
+      "project_id": "8dmJJTC3",
+      "version_id": "E879erNz",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "afb75283adaf801472de1f2dcdb1296d17086f448a4b61606cad5e88194d664cc50610c3cd849183a4e06da9d95a37341a5b2a26971c6a00206084f48967982f"
+      },
+      "download_url": "https://cdn.modrinth.com/data/8dmJJTC3/versions/E879erNz/createmissiles-1.0.3%2Bneoforge-1.21.1.jar"
+    },
+    {
+      "filename": "colorful_catalysts-2.1.0.jar",
+      "provider": "modrinth",
+      "project_id": "3ADr1McV",
+      "version_id": "iKHXs3Gb",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "5c61c2629c3280ceb3e95db358d62ebc70edeec2b02fb572e80a9c80379b67e1c73298fbfa999be585421753392e88b6027d668dc7453228bc20899c0df110a0"
+      },
+      "download_url": "https://cdn.modrinth.com/data/3ADr1McV/versions/iKHXs3Gb/colorful_catalysts-2.1.0.jar"
+    },
+    {
+      "filename": "gravestone-neoforge-1.21.1-1.0.40.jar",
+      "provider": "modrinth",
+      "project_id": "RYtXKJPr",
+      "version_id": "rMGJpjaM",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "5504a222d4085da1898ff6d4dff8eb1821fd14a8caaaac785554277147f984262e63925a411db3f1a34e9c7874652fb6737176bea4c0c3f01243f5eae4ea6eaa"
+      },
+      "download_url": "https://cdn.modrinth.com/data/RYtXKJPr/versions/rMGJpjaM/gravestone-neoforge-1.21.1-1.0.40.jar"
+    },
+    {
+      "filename": "CBMultipart-1.21.1-3.5.0.155.jar",
+      "provider": "modrinth",
+      "project_id": "LmvnWWSV",
+      "version_id": "mhteXGK9",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "43ba1480586db6fac554e4cf5ade2f006a789a509a32f0824277e35310831d3dc7b90cee08d7baf228bb74132174dd4e41d2b1ac9dd23f9877b0969b718fa303"
+      },
+      "download_url": "https://cdn.modrinth.com/data/LmvnWWSV/versions/mhteXGK9/CBMultipart-1.21.1-3.5.0.155.jar"
+    },
+    {
+      "filename": "create_radar-0.4.9.4-1.21.1.jar",
+      "provider": "modrinth",
+      "project_id": "BLu2Yqfq",
+      "version_id": "AntNFNAx",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "9ce111ea7e39fe979a6d423766820bbdd8c7e61ecf72db35b94539330aadc0cd45b5eed469ef4bbfeb36b1c558209e048019f5a4a253b43f3b6b3bd4fbc8ac63"
+      },
+      "download_url": "https://cdn.modrinth.com/data/BLu2Yqfq/versions/AntNFNAx/create_radar-0.4.9.4-1.21.1.jar"
+    },
+    {
+      "filename": "createthrusters-bundled-V1.1.3.jar",
+      "provider": "modrinth",
+      "project_id": "Sza3GgEL",
+      "version_id": "vQlkDgnK",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "a17b53535c30efbe8602ccef2ecfc6ee3a47af8874aa24eb32875bbcfe4ae12ac15f3c4abbf87c3ec930d62bbde120baba095ee57abd2058c9492f617f72b0e8"
+      },
+      "download_url": "https://cdn.modrinth.com/data/Sza3GgEL/versions/vQlkDgnK/createthrusters-bundled-V1.1.3.jar"
+    },
+    {
+      "filename": "cc-tweaked-1.21.1-forge-1.120.2.jar",
+      "provider": "modrinth",
+      "project_id": "gu7yAYhd",
+      "version_id": "1ewzHZYg",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "009fcf48b7d123018a61b2c55f0fede7dd1f6a6325226bf9cc926342185ca8a7e059e13662816d24595aac243abf622b682583631cfe42c3757505b2e864ff73"
+      },
+      "download_url": "https://cdn.modrinth.com/data/gu7yAYhd/versions/1ewzHZYg/cc-tweaked-1.21.1-forge-1.120.2.jar"
+    },
+    {
+      "filename": "naturalist-2.0.3-neoforge-1.21.1.jar",
+      "provider": "modrinth",
+      "project_id": "F8BQNPWX",
+      "version_id": "BLB7ktFs",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "fa6fbe15ecf3d1a9621849274e97895b277762c334609a96d20714e469b2dd6b1a04d333077acf126aed1e1fb5222a5de7331525eb5eef17d93cab59573c5ba4"
+      },
+      "download_url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/BLB7ktFs/naturalist-2.0.3-neoforge-1.21.1.jar"
+    },
+    {
+      "filename": "xaeroworldmap-neoforge-1.21.1-1.45.0.jar",
+      "provider": "modrinth",
+      "project_id": "NcUtCpym",
+      "version_id": "fOv9QzLO",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "57a3175d91c237682b65e1b9df78be23ad8cd03f1c8ca074fc61e1672d280df8fa7335c88a173b46b1e17834af621e5121b80ac0d12cd7c9aba3e3ceb367d1eb"
+      },
+      "download_url": "https://cdn.modrinth.com/data/NcUtCpym/versions/fOv9QzLO/xaeroworldmap-neoforge-1.21.1-1.45.0.jar"
+    },
+    {
+      "filename": "CreateDragonsPlus-1.11.8.jar",
+      "provider": "modrinth",
+      "project_id": "dzb1a5WV",
+      "version_id": "NYO9KYfI",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "2ddaa7a93a090cdfbd17886ab05c708430c5db2d4b5e786ce0f447281081d131cf99c02c3fddea79839898125b8ad15d19f263e48eb804c240940e49696b0e87"
+      },
+      "download_url": "https://cdn.modrinth.com/data/dzb1a5WV/versions/NYO9KYfI/CreateDragonsPlus-1.11.8.jar"
+    },
+    {
+      "filename": "ballastmod-0.1.0.jar",
+      "provider": "modrinth",
+      "project_id": "5ypXYrfG",
+      "version_id": "uJwkM1Xh",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "e69d283a520983122310c5576306aaacd4a326b5c38de3ec1fdd859561bd76b8905817f8ff7004e56d5c43e90d304650aaa523c5fe51d7331faf61921ddc2f7d"
+      },
+      "download_url": "https://cdn.modrinth.com/data/5ypXYrfG/versions/uJwkM1Xh/ballastmod-0.1.0.jar"
+    },
+    {
+      "filename": "mechanicals-1.21.1-1.1.6.jar",
+      "provider": "modrinth",
+      "project_id": "ProvjTA7",
+      "version_id": "GBSlpwLT",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "84bfcd2cbd061eb1516fc2adbca0e599a38372b80ef9f5713de70be48d072243b1c5cb84c13177c35f333b6bcf16aa1f70dbd0964ed18e14c2bff733c531c6bc"
+      },
+      "download_url": "https://cdn.modrinth.com/data/ProvjTA7/versions/GBSlpwLT/mechanicals-1.21.1-1.1.6.jar"
+    },
+    {
+      "filename": "AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
+      "provider": "modrinth",
+      "project_id": "9NM0dXub",
+      "version_id": "OWylG33I",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "94724dd77d005f0a189c4843efcc2800cf3d3e01d1f1ac184c6f6ad7c921aec508e93fa0bfac0e641a74c1629d4e5e4d06b8c1a3e0d8e63f97db89b2f879c106"
+      },
+      "download_url": "https://cdn.modrinth.com/data/9NM0dXub/versions/OWylG33I/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar"
+    },
+    {
+      "filename": "create_mob_spawners-1.1.0.jar",
+      "provider": "modrinth",
+      "project_id": "bklciXlt",
+      "version_id": "WxOTJbZI",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "0eb608179ca23be8670d503c057e2841718f9b452bf57a87ba498519e13dfeff27cc384820e2ca873da29f81690d7f1844bcf5c771e3803dfd9f24124adee596"
+      },
+      "download_url": "https://cdn.modrinth.com/data/bklciXlt/versions/WxOTJbZI/create_mob_spawners-1.1.0.jar"
+    },
+    {
+      "filename": "KotlinLangForge-2.13.0-k2.4.10-3.0+neoforge.jar",
+      "provider": "modrinth",
+      "project_id": "1vrSzlao",
+      "version_id": "XsDHyDlZ",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "1dec600b87b1d6a350bbfb3c7ad45136929e77851dac66efc70d217cde2af2115b822560f404355cfaa0f45453b32c9045cdcfa57b5840dec9a88f9302cb42be"
+      },
+      "download_url": "https://cdn.modrinth.com/data/1vrSzlao/versions/XsDHyDlZ/KotlinLangForge-2.13.0-k2.4.10-3.0%2Bneoforge.jar"
+    },
+    {
+      "filename": "createtransmission-1.2.2+neoforge-create6-1.21.1.jar",
+      "provider": "modrinth",
+      "project_id": "QFCkBuIh",
+      "version_id": "dOsq88jX",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "ed90c19f6e265a3862a2c96d95e9b204cb3b3be8b781d8364d0a2aea4d70877f5fe66056354da0fed2eb35fde22c6e4c2801b0cf31d8d7157e4933f1d8913233"
+      },
+      "download_url": "https://cdn.modrinth.com/data/QFCkBuIh/versions/dOsq88jX/createtransmission-1.2.2%2Bneoforge-create6-1.21.1.jar"
+    },
+    {
+      "filename": "sodium-neoforge-0.8.12+mc1.21.1.jar",
+      "provider": "modrinth",
+      "project_id": "AANobbMI",
+      "version_id": "S3DUMfBo",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "2a689e1b1e16acc790c011b42ec21958956207c3b49cb99cb5c006e639786adf1cc36559f9840e2c1d27485c00da9712d34020fa4279eb6810eaa54bf20b19b0"
+      },
+      "download_url": "https://cdn.modrinth.com/data/AANobbMI/versions/S3DUMfBo/sodium-neoforge-0.8.12%2Bmc1.21.1.jar"
+    },
+    {
+      "filename": "FarmersDelight-1.21.1-1.3.4.jar",
+      "provider": "modrinth",
+      "project_id": "R2OftAxM",
+      "version_id": "XTVZDOol",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "1f6f8796469f747cff36f477b4f589a3d69613882399f9ee7f86db36c7bca9aa4828731f43db15dc6c7f5a4c1bbe3d4092a232e8cef010b09cec0581848fda90"
+      },
+      "download_url": "https://cdn.modrinth.com/data/R2OftAxM/versions/XTVZDOol/FarmersDelight-1.21.1-1.3.4.jar"
+    },
+    {
+      "filename": "sliceanddice-4.3.3-neoforge.jar",
+      "provider": "modrinth",
+      "project_id": "GmjmRQ0A",
+      "version_id": "N67LJgrN",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "3bdbd282ae5aa11ef6c186b752497541730b50fb400c4962230bcd7734cfe4e8daa2ee565387450dfe0eb6deaa0fa44bf81f99c788bac09b1a60d8f1991db37f"
+      },
+      "download_url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/N67LJgrN/sliceanddice-4.3.3-neoforge.jar"
+    },
+    {
+      "filename": "moonlight-1.21.1-3.6.1-neoforge.jar",
+      "provider": "modrinth",
+      "project_id": "twkfQtEc",
+      "version_id": "o9IoOg6k",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "fabf0c99cb55255bca5251fdf90b994815bfab25697a8edca0e8d3663db5df0d761288ba5144179d3f87f6edfd4edec71bd867f07d7ed48117d8993db52cb9e0"
+      },
+      "download_url": "https://cdn.modrinth.com/data/twkfQtEc/versions/o9IoOg6k/moonlight-1.21.1-3.6.1-neoforge.jar"
+    },
+    {
+      "filename": "struts-1.3.0.jar",
+      "provider": "modrinth",
+      "project_id": "sHO3MhQx",
+      "version_id": "Nrn7hYca",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "81837e97ebc081bd4afb0d456837e7b598f79c37b1d31874e7550d4a2f42f8c864587f9a04f44f14f175e9cf69884cd2e593fa1fb315727040affa1d69c2df06"
+      },
+      "download_url": "https://cdn.modrinth.com/data/sHO3MhQx/versions/Nrn7hYca/struts-1.3.0.jar"
+    },
+    {
+      "filename": "ProjectRed-1.21.1-4.23.0-transmission.jar",
+      "provider": "modrinth",
+      "project_id": "dXmH4rEw",
+      "version_id": "YCCf1wi9",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "e5911856eb2e4f4604a47e5bb7b37733171a5889a183e5b72b45c0d1fd9e8edbbae63419d2c07a3d4817c46ee93ad6c3f03fc8deaa642d2bb23d1487fd32edf9"
+      },
+      "download_url": "https://cdn.modrinth.com/data/dXmH4rEw/versions/YCCf1wi9/ProjectRed-1.21.1-4.23.0-transmission.jar"
+    },
+    {
+      "filename": "jupiter-2.3.7-1.21.1-neoforge.jar",
+      "provider": "modrinth",
+      "project_id": "XbiLGMMU",
+      "version_id": "Jpcw76rq",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "b91665a0e7e74d7bfdc3903a297bc97477fdeea49c43e03f1de000cbb09422bf35d06a6f67a68c36029be23cd35b753770354967f25b8f09473654ea85473ee0"
+      },
+      "download_url": "https://cdn.modrinth.com/data/XbiLGMMU/versions/Jpcw76rq/jupiter-2.3.7-1.21.1-neoforge.jar"
+    },
+    {
+      "filename": "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+      "provider": "modrinth",
+      "project_id": "HjmxVlSr",
+      "version_id": "Go3nbneL",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "8b01b386f53feeaa55f0c62697578b82e00501e45e428b2a68df6bda34efb6a4b3b4e3582abf13fe767ebcb61aef9368186f53c03999958bef38f31c41a7f8b2"
+      },
+      "download_url": "https://cdn.modrinth.com/data/HjmxVlSr/versions/Go3nbneL/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar"
+    },
+    {
+      "filename": "supplementaries-1.21.1-3.9.7-neoforge.jar",
+      "provider": "modrinth",
+      "project_id": "fFEIiSDQ",
+      "version_id": "A0lpiTgJ",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "bb41f31f0a80be3cccd69fe6e943ac05bce422676f23376a5d855e3d46064f182128d2522fb94db2af30a1a4b1c8b84e2dc4304f055075193189bba17cb12ede"
+      },
+      "download_url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/A0lpiTgJ/supplementaries-1.21.1-3.9.7-neoforge.jar"
+    },
+    {
+      "filename": "create-aeronautics-bundled-1.21.1-1.3.2.jar",
+      "provider": "modrinth",
+      "project_id": "oWaK0Q19",
+      "version_id": "44pLdPGg",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "dc7e8e1148fa442243889ba29412207137e1bb86206e6c92bc0a589f1374a466e93de22bdbf14f753984d86c29308fbbdc0f14a4b9618b14c0ac1666a36b46f5"
+      },
+      "download_url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/44pLdPGg/create-aeronautics-bundled-1.21.1-1.3.2.jar"
+    },
+    {
+      "filename": "sophisticatedbackpacks-1.21.1-3.25.78.2107.jar",
+      "provider": "modrinth",
+      "project_id": "TyCTlI4b",
+      "version_id": "6apvKKGZ",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "c2c9bc314068eb4a216dc8cd0826e7763ffa49f948595c9454a42ac80b1d0bd8e83a40752c6ee374ca5cdaafbf34be0577105b77947d7c2e60e1e7695630f7b7"
+      },
+      "download_url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/6apvKKGZ/sophisticatedbackpacks-1.21.1-3.25.78.2107.jar"
+    },
+    {
+      "filename": "create_the_air_wars-4.67.jar",
+      "provider": "modrinth",
+      "project_id": "GMrNnOis",
+      "version_id": "JnF14u1u",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "74c617d342c7c43b9ef67e22d3791a0ca7681bb64792c29ae45bfaafb2f9fe3c74d711b2c7334b008c446c1dae3eec4c208a28e55a37d27a0df2627a1e05ee5b"
+      },
+      "download_url": "https://cdn.modrinth.com/data/GMrNnOis/versions/JnF14u1u/create_the_air_wars-4.67.jar"
+    },
+    {
+      "filename": "create_cardan_shafts-0.1.6.jar",
+      "provider": "modrinth",
+      "project_id": "5zf6e26A",
+      "version_id": "gN7NRzux",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "722bb2331ad081950c1a4b6def2964f73bc757bfa14be5c3a9028f758e079cc51ba4810bb198813d05b5fd4fb6fb4acde42f9c098fb7a89e853eeb92587f9743"
+      },
+      "download_url": "https://cdn.modrinth.com/data/5zf6e26A/versions/gN7NRzux/create_cardan_shafts-0.1.6.jar"
+    },
+    {
+      "filename": "FallingTree-1.21.1-1.21.1.11.jar",
+      "provider": "modrinth",
+      "project_id": "Fb4jn8m6",
+      "version_id": "wxGXaJMA",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "21876b270ca40e3ad6168423f2aba04460f590be191c5558d53e4f542993efa6070589029cb3218557309b096cd920e4da65e53f19687b86c638ec6c342d83e5"
+      },
+      "download_url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/wxGXaJMA/FallingTree-1.21.1-1.21.1.11.jar"
+    },
+    {
+      "filename": "YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "provider": "modrinth",
+      "project_id": "o1C1Dkj5",
+      "version_id": "D6aZn0Em",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "40513bacd13fa9860abcab507b1fc09dc51649af4b615ce466e0ec361557f02d35e6e44bea1cc17cb4120805f862aad01394eb185f46611e7be63dfd97f272df"
+      },
+      "download_url": "https://cdn.modrinth.com/data/o1C1Dkj5/versions/D6aZn0Em/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar"
+    },
+    {
+      "filename": "sounds-2.4.22+lts+1.21.1-neoforge.jar",
+      "provider": "modrinth",
+      "project_id": "ZouiUX7t",
+      "version_id": "kti7i9SG",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "0dbfe1cd74be45241c5e95354e6466af10cb50ce780d87672337bd4de03fa708dc56eb013040bb2a02a941cf19b2b282385c6a5305695a4de3534627c645f053"
+      },
+      "download_url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/kti7i9SG/sounds-2.4.22%2Blts%2B1.21.1-neoforge.jar"
+    },
+    {
+      "filename": "GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+      "provider": "modrinth",
+      "project_id": "s3dmwKy5",
+      "version_id": "S2TfWrZR",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "7a009ed163d03536fdfaee7b37cb1ec3073204dffcb06a683369aa88da8dbc3780b0ac69d466bb32a3ad9394c97b698d0fda676e1b4dd4edfc50ac5aa2283c32"
+      },
+      "download_url": "https://cdn.modrinth.com/data/s3dmwKy5/versions/S2TfWrZR/GlitchCore-neoforge-1.21.1-2.1.0.2.jar"
+    },
+    {
+      "filename": "sable-neoforge-1.21.1-2.0.5.jar",
+      "provider": "modrinth",
+      "project_id": "T9PomCSv",
+      "version_id": "U678xqle",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "bf3d8c87bcc5efb99afffd50305fc978086ed48a63e106816e3a8a3901f8052f4480ea527dbd7d4003f7775ed4d020529098034f4e307aefac9cc42df2b4c19a"
+      },
+      "download_url": "https://cdn.modrinth.com/data/T9PomCSv/versions/U678xqle/sable-neoforge-1.21.1-2.0.5.jar"
+    },
+    {
+      "filename": "YungsApi-1.21.1-NeoForge-5.1.8.jar",
+      "provider": "modrinth",
+      "project_id": "Ua7DFN59",
+      "version_id": "K3Dp2T0P",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "83520e057a949ed6e8dcee33984ae0eef83c2e57d001ffbbba0b51090176608f7378327ece773312543cd8cbb802f951b7c24b57f3ab6cf19d2be10b47af30d0"
+      },
+      "download_url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/K3Dp2T0P/YungsApi-1.21.1-NeoForge-5.1.8.jar"
+    },
+    {
+      "filename": "advancednetherite-neoforge-2.3.1-1.21.1.jar",
+      "provider": "modrinth",
+      "project_id": "CFX9ftUJ",
+      "version_id": "tsu9b2K9",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "e5750002f1780b6c7effd0258f6ca37d0f4a8db134c172b9ff54dcb9d0a83e6bd2452bd449ace8aefc9d425d178709376d2c82c7b424cb61b3a58e9952056f08"
+      },
+      "download_url": "https://cdn.modrinth.com/data/CFX9ftUJ/versions/tsu9b2K9/advancednetherite-neoforge-2.3.1-1.21.1.jar"
+    },
+    {
+      "filename": "entity_texture_features-7.2.1-1.21-neoforge.jar",
+      "provider": "modrinth",
+      "project_id": "BVzZfTc1",
+      "version_id": "XEJeKpgJ",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "8158242ce79b38a613de7696221eae24c9a451040143fbe43f8d8a37329d7debcb6164c0d42177d2f7db306e54f2d7bbd99eee74add39ad3871c70754edd8cb7"
+      },
+      "download_url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/XEJeKpgJ/entity_texture_features-7.2.1-1.21-neoforge.jar"
+    },
+    {
+      "filename": "iris-neoforge-1.8.12+mc1.21.1.jar",
+      "provider": "modrinth",
+      "project_id": "YL57xq9U",
+      "version_id": "t3ruzodq",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "57b8026a3c3c433cf6123d63dc6ce7e11f6d480a72926370db1fc7f2b06059bc16a753ecd7e7af659c19e90b592103196b0e89585ce4f0744a4ca433f59bcf1a"
+      },
+      "download_url": "https://cdn.modrinth.com/data/YL57xq9U/versions/t3ruzodq/iris-neoforge-1.8.12%2Bmc1.21.1.jar"
+    },
+    {
+      "filename": "appliedenergistics2-19.2.17.jar",
+      "provider": "modrinth",
+      "project_id": "XxWD5pD3",
+      "version_id": "kfyIqgJ6",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "55edfd948366aff620881e0625e48c333a2cb847e73249bc0b588efbc4b86709992a8ffbca97ea387e270df4186fe7f74ee2f27b739f1c952e932becfb9dea33"
+      },
+      "download_url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/kfyIqgJ6/appliedenergistics2-19.2.17.jar"
+    },
+    {
+      "filename": "lionfishapi-3.1.jar",
+      "provider": "modrinth",
+      "project_id": "FoVacERa",
+      "version_id": "fTRMVgyZ",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "fdd90f19d0424c3a837111291d6ac1547d62cbcedd43b74d3a8946912f9c5212a5ea239a6969eccf678289bcb77cbb9a937db01fdaf60e57826f9a99893d19cb"
+      },
+      "download_url": "https://cdn.modrinth.com/data/FoVacERa/versions/fTRMVgyZ/lionfishapi-3.1.jar"
+    },
+    {
+      "filename": "superbwarfare-0.8.9.1-final-mc1.21.1-5b92ebe1.jar",
+      "provider": "modrinth",
+      "project_id": "Cd3DYqzn",
+      "version_id": "61I8C3YC",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "c651779cb2f95290892ee67c38c8c9a200d9ac2b3f5daac3b647988363bdcd89f0cecb618efdc44c0a265074bb0712ebcca018aa034d76a6e44835a1f5a43d3b"
+      },
+      "download_url": "https://cdn.modrinth.com/data/Cd3DYqzn/versions/61I8C3YC/superbwarfare-0.8.9.1-final-mc1.21.1-5b92ebe1.jar"
+    },
+    {
+      "filename": "artifacts-neoforge-13.2.5.jar",
+      "provider": "modrinth",
+      "project_id": "P0Mu4wcQ",
+      "version_id": "lMfuK0o7",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "9079bc8a22c237881b22b38027bbab2a8a2e685a1f49c1e1e0e5796f3e0a5509a130d73753c7b2980f12e4f00845f8e8c967ee969f1eadcd52139c2780afe09d"
+      },
+      "download_url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/lMfuK0o7/artifacts-neoforge-13.2.5.jar"
+    },
+    {
+      "filename": "createdeco-2.1.3.jar",
+      "provider": "modrinth",
+      "project_id": "sMvUb4Rb",
+      "version_id": "qrcMVoBD",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "c536662f9d47ad57a37419165ded14835b23ad6c3e82a920298ecd7ee074244b0b6062ef9cc7ea4501ddd35919a840faccd7fc64e43eb8df31e12076681c3c0d"
+      },
+      "download_url": "https://cdn.modrinth.com/data/sMvUb4Rb/versions/qrcMVoBD/createdeco-2.1.3.jar"
+    },
+    {
+      "filename": "DnDesires-1.21.1-2.3a-BETA.jar",
+      "provider": "modrinth",
+      "project_id": "JmybsfWs",
+      "version_id": "bqMxf6Ua",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "c2d70c5ef259d20ba60a66fa146fc0d37b588c5c42c0028a650af1e10678c4e4604966aa46efd25f3824df4620ef719daa8e54fc82220d7a1b22a7fcaa4e2077"
+      },
+      "download_url": "https://cdn.modrinth.com/data/JmybsfWs/versions/bqMxf6Ua/DnDesires-1.21.1-2.3a-BETA.jar"
+    },
+    {
+      "filename": "fzzy_config-0.7.6+1.21+neoforge.jar",
+      "provider": "modrinth",
+      "project_id": "hYykXjDp",
+      "version_id": "MAPG6cXE",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "6071890aba7f2273c9fd508914acc7850de9d986423760f9ce416875ffa04eea2ad71a7a6f4d5f90f0625a672f6f54606778d11151b155f3fd98c223c61a4a6d"
+      },
+      "download_url": "https://cdn.modrinth.com/data/hYykXjDp/versions/MAPG6cXE/fzzy_config-0.7.6%2B1.21%2Bneoforge.jar"
+    },
+    {
+      "filename": "Jade-1.21.1-NeoForge-15.10.6.jar",
+      "provider": "modrinth",
+      "project_id": "nvQzSEkH",
+      "version_id": "eYz2YBGT",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "dad9755dce8d85d914fc4df2baa0211f13e5839a71c1925fdd01f69081a95e30a2934e6273f8b01f0169adebe7a9dae57a8d904de0c4cb36dc17369bb474f0f2"
+      },
+      "download_url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/eYz2YBGT/Jade-1.21.1-NeoForge-15.10.6.jar"
+    },
+    {
+      "filename": "DungeonsArise-1.21.1-2.1.68-release.jar",
+      "provider": "modrinth",
+      "project_id": "8DfbfASn",
+      "version_id": "XIRJSFQ0",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "cf87e06c8a49c9147fac2cf4d218d0e0eb56bb75819ab85f84ed7ae775bb3e259e2ebd5c423696d4d9026f6a69698babf5e7c82c74e480fbbf107359ef30a97e"
+      },
+      "download_url": "https://cdn.modrinth.com/data/8DfbfASn/versions/XIRJSFQ0/DungeonsArise-1.21.1-2.1.68-release.jar"
+    },
+    {
+      "filename": "CodeChickenLib-1.21.1-4.6.1.529.jar",
+      "provider": "modrinth",
+      "project_id": "2gq0ALnz",
+      "version_id": "vLDGhjNJ",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "acc300da463672a4091e0f48266df4a5b0704bc23e044e71ca47c3d56390d09eef3690baad8f8744d657bac8d5e02a2b4a2bb77ed0478dba9ad9b8c35901645f"
+      },
+      "download_url": "https://cdn.modrinth.com/data/2gq0ALnz/versions/vLDGhjNJ/CodeChickenLib-1.21.1-4.6.1.529.jar"
+    },
+    {
+      "filename": "alexscaves-2.0.10.jar",
+      "provider": "modrinth",
+      "project_id": "kSsLSjEt",
+      "version_id": "pC1MYhqR",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "5d933f9276ecc721ea67585e56149cbc9450c0036fc6f8a6fbed041d48ebfb8c286cd762477ef63efc2c0a186d0c5598a853002c9524c229d7f55ddee5d21651"
+      },
+      "download_url": "https://cdn.modrinth.com/data/kSsLSjEt/versions/pC1MYhqR/alexscaves-2.0.10.jar"
+    },
+    {
+      "filename": "create-central-kitchen-2.6.0.jar",
+      "provider": "modrinth",
+      "project_id": "btq68HMO",
+      "version_id": "1mQSm4Yb",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "9f42e5f3e557118a8dec364ee87fa9ee3d91f8f386eaf656ae2410dff6e5263bdeb0d532fe1af7dab51c3faf9fa6672d3089a28e5c04242e86b55407f41b7152"
+      },
+      "download_url": "https://cdn.modrinth.com/data/btq68HMO/versions/1mQSm4Yb/create-central-kitchen-2.6.0.jar"
+    },
+    {
+      "filename": "another_furniture-neoforge-4.0.2.jar",
+      "provider": "modrinth",
+      "project_id": "ulloLmqG",
+      "version_id": "Q29JlZfU",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "4b2afa5bd73b6a9df43cc4dc3e8dfb267b34388ba83810cc3d9c134e547e95458f4608a8be7e34eb09d67acde1a7220d2c311c789e6d1fa7f680f09ad66929ea"
+      },
+      "download_url": "https://cdn.modrinth.com/data/ulloLmqG/versions/Q29JlZfU/another_furniture-neoforge-4.0.2.jar"
+    },
+    {
+      "filename": "carryon-neoforge-1.21.1-2.2.6.13.jar",
+      "provider": "modrinth",
+      "project_id": "joEfVgkn",
+      "version_id": "PV8oLZ1q",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "e097b11d6f14e0957bab6c0276b81542e786cb86b9c31d9f25975f8c9fb04a734188b8790683298bbc5c695dc3de7d6e947616a20ad26d4a728a3beb0bb78667"
+      },
+      "download_url": "https://cdn.modrinth.com/data/joEfVgkn/versions/PV8oLZ1q/carryon-neoforge-1.21.1-2.2.6.13.jar"
+    },
+    {
+      "filename": "dungeons-and-taverns-v4.4.4.jar",
+      "provider": "modrinth",
+      "project_id": "tpehi7ww",
+      "version_id": "BYUUUeZA",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "83069dc336bcc212059f753923373d9522aa5953bf4b4fe2a8cfa666b4e28d2d017daa66c4b35e315c3be8d1ad60c2872879dd47cc1f47665ebbfd102da76976"
+      },
+      "download_url": "https://cdn.modrinth.com/data/tpehi7ww/versions/BYUUUeZA/dungeons-and-taverns-v4.4.4.jar"
+    },
+    {
+      "filename": "rightclickharvest-neoforge-4.6.1+1.21.1.jar",
+      "provider": "modrinth",
+      "project_id": "Cnejf5xM",
+      "version_id": "djt0zS53",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "909cc4aba3ed535bb65c4cf285725907f100c0ebbcb619b1c861338b7993a020f0aef953bebeeb74920304c5a80e9cd07654aa5f885a5995824da7cf6784bf42"
+      },
+      "download_url": "https://cdn.modrinth.com/data/Cnejf5xM/versions/djt0zS53/rightclickharvest-neoforge-4.6.1%2B1.21.1.jar"
+    },
+    {
+      "filename": "cbc_going_ballistic-0.3.1.jar",
+      "provider": "modrinth",
+      "project_id": "xxaCKdq3",
+      "version_id": "KPczpdLq",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "4811a8179b9543e9015a94fc26e780757492dafe202e1e690ed6f69c45fa00e0381f51e558a5f5a7e420428bf839784a146d66e4260d1d1140a28462dae9ff4d"
+      },
+      "download_url": "https://cdn.modrinth.com/data/xxaCKdq3/versions/KPczpdLq/cbc_going_ballistic-0.3.1.jar"
+    },
+    {
+      "filename": "Design-n-Decor-1.21.1-2.2b.jar",
+      "provider": "modrinth",
+      "project_id": "x49wilh8",
+      "version_id": "uQsIRky8",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "d888553c8a254c3654f8da2ae2cae0bb642594546c71988739c93bf6b18668145e0ce5b1c20ae0544b9b6019f17e4da944bd5bc17e4c6b73e7f1374cfa2c9db9"
+      },
+      "download_url": "https://cdn.modrinth.com/data/x49wilh8/versions/uQsIRky8/Design-n-Decor-1.21.1-2.2b.jar"
+    },
+    {
+      "filename": "effortless-1.21.1-3.4.0.jar",
+      "provider": "modrinth",
+      "project_id": "EF68hjiy",
+      "version_id": "ngJJMR0I",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "1089fbd9b5db0880836ef0f85cf10037e8f89e4321d08efd7d15bd0322a4f906a26769d47fc9737d655605c735abd7925d46390fb9f8b63ffcff142ecdf87cf7"
+      },
+      "download_url": "https://cdn.modrinth.com/data/EF68hjiy/versions/ngJJMR0I/effortless-1.21.1-3.4.0.jar"
+    },
+    {
+      "filename": "cbc_at_Neoforge_1.21.1_0.1.4c.jar",
+      "provider": "modrinth",
+      "project_id": "pTfszyXD",
+      "version_id": "ds01YFge",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "5e94655294b568e08e7d04de7ce369811baad3c01355a614e04933c5c46e6f33700cc44688e9038b61ded245c8bb1cd0c01d14ab8369898ac3a0dfb263a7deed"
+      },
+      "download_url": "https://cdn.modrinth.com/data/pTfszyXD/versions/ds01YFge/cbc_at_Neoforge_1.21.1_0.1.4c.jar"
+    },
+    {
+      "filename": "server_waypoint-3.0.4-neoforge-mc1.21-1.21.1.jar",
+      "provider": "modrinth",
+      "project_id": "UyBaYBa7",
+      "version_id": "60yrrjGa",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "466e76418ccbe8b02bb32a37d7fe7b929d955475b3ee667d85b4573c7801849a2ee3e08810e460fb597807b1bbd63e19d337b6887b6488d07a2ae27683675e19"
+      },
+      "download_url": "https://cdn.modrinth.com/data/UyBaYBa7/versions/60yrrjGa/server_waypoint-3.0.4-neoforge-mc1.21-1.21.1.jar"
+    },
+    {
+      "filename": "create_winery-2.0.2-neoforge-1.21.1.jar",
+      "provider": "modrinth",
+      "project_id": "zBuk6egG",
+      "version_id": "vTUNDdDM",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "8812fd4b3299d229c6edfc8a46a8c93610a2c857793a0ffb04538edf01466cf359a8afc1f78f51d6ff8b61352d52ec231deb2a49efd96d69b4a6885987ba7da7"
+      },
+      "download_url": "https://cdn.modrinth.com/data/zBuk6egG/versions/vTUNDdDM/create_winery-2.0.2-neoforge-1.21.1.jar"
+    },
+    {
+      "filename": "create_overpowered-2.5-neoforge-1.21.1.jar",
+      "provider": "modrinth",
+      "project_id": "vZzNrSHN",
+      "version_id": "CnTjGXmz",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "e10107fcad374994b9d8e489a978e6f793b7bbc3ce6d047dbd9f41c826f4d06ae3ff93e86ed650401acd115a03d54afee88ea0a76676192cab35bd5064dd30cd"
+      },
+      "download_url": "https://cdn.modrinth.com/data/vZzNrSHN/versions/CnTjGXmz/create_overpowered-2.5-neoforge-1.21.1.jar"
+    },
+    {
+      "filename": "createfood-neoforge-1.21.1-2.7.1.jar",
+      "provider": "modrinth",
+      "project_id": "4HnO3el1",
+      "version_id": "CnuisYs3",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "9f4a544671b381a0cbf8e2428dcde1578772cc5233fb3074d8a93cd987a0640e79552a2ffae8af0c8f908ed57376eb3c29b32744b4f257c3f001101e77a18420"
+      },
+      "download_url": "https://cdn.modrinth.com/data/4HnO3el1/versions/CnuisYs3/createfood-neoforge-1.21.1-2.7.1.jar"
+    },
+    {
+      "filename": "ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
+      "provider": "modrinth",
+      "project_id": "B3pb093D",
+      "version_id": "hZ6B2Z0x",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "6d64c84505a5a8fbb96d106603065465c5a2314ec09636900c5c1a31014c12fa68f1a41e758313cbf0d6f95d9a1f53bd67339020f7d8db0e184c23f66aee0330"
+      },
+      "download_url": "https://cdn.modrinth.com/data/B3pb093D/versions/hZ6B2Z0x/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar"
+    },
+    {
+      "filename": "copycats-3.0.8+mc.1.21.1-neoforge.jar",
+      "provider": "modrinth",
+      "project_id": "UT2M39wf",
+      "version_id": "ZwGlMBIk",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "85edd42d46ba2c331212584d1009bf2c7bd21782c89d2a1d994dbdd170a6812e20fee6aa51faf0aa9357bd75e973b692b460c30680093f8fc2c097c52dc60b08"
+      },
+      "download_url": "https://cdn.modrinth.com/data/UT2M39wf/versions/ZwGlMBIk/copycats-3.0.8%2Bmc.1.21.1-neoforge.jar"
+    },
+    {
+      "filename": "SimplyTooltips-neoforge-0.1.5.jar",
+      "provider": "modrinth",
+      "project_id": "6avVoBVB",
+      "version_id": "Zb6dytvm",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "7be6beb5f72c03b7c9f44568c11577f2ba50aec8d16af34d860294718cd2ab550691a8e82756d96c6f0bdd1111e2de8aa68db970c5762be659ad4aec69940ebd"
+      },
+      "download_url": "https://cdn.modrinth.com/data/6avVoBVB/versions/Zb6dytvm/SimplyTooltips-neoforge-0.1.5.jar"
+    },
+    {
+      "filename": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "provider": "modrinth",
+      "project_id": "aC3cM3Vq",
+      "version_id": "9I21YYxf",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "f95c0cc881211ee0442434976775e07aae40b4a2ba4e3a85455bc57ca9d3c991e239cd98374a8abd442dc9c378dcd9001e2caa1bf69991d424b5652dd7f3483b"
+      },
+      "download_url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/9I21YYxf/MouseTweaks-neoforge-mc1.21-2.26.1.jar"
+    },
+    {
+      "filename": "cbc_equally_opposite-0.1.3.jar",
+      "provider": "modrinth",
+      "project_id": "9PsdRq7Q",
+      "version_id": "NHXvaWNX",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "a32e91408f149b44269326de89b2f8872ad40ea43891ba3d8e39129aa3fed119c1e5074b0de23239d0d16d245381215e0e6917fb89f4ddc34e3a64659f77b8cd"
+      },
+      "download_url": "https://cdn.modrinth.com/data/9PsdRq7Q/versions/NHXvaWNX/cbc_equally_opposite-0.1.3.jar"
+    },
+    {
+      "filename": "ProjectRed-1.21.1-4.23.0-fabrication.jar",
+      "provider": "modrinth",
+      "project_id": "5H1VMCiY",
+      "version_id": "XSc1rVMC",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "198adcba4bd9ddb9feb1c0470bf0d2d3bc468a2cc4a11ac339917d37c6e6d433575de2e398494c7ec56313689467a09a6aa514c510b02a7111a1dcaa5511a206"
+      },
+      "download_url": "https://cdn.modrinth.com/data/5H1VMCiY/versions/XSc1rVMC/ProjectRed-1.21.1-4.23.0-fabrication.jar"
+    },
+    {
+      "filename": "cristellib-neoforge-1.21.1-3.1.7.jar",
+      "provider": "modrinth",
+      "project_id": "cl223EMc",
+      "version_id": "Sduz0AWP",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "6d21ceb6cd91e63a248251ded3812208ed5ea4f36abb11e8c6e16aa119a95b0e714f59ec7689ae1b1248c9831e5e3e63aa681aa7dfa9b220d93741118466cbd6"
+      },
+      "download_url": "https://cdn.modrinth.com/data/cl223EMc/versions/Sduz0AWP/cristellib-neoforge-1.21.1-3.1.7.jar"
+    },
+    {
+      "filename": "PuzzlesLib-v21.1.56-mc1.21.1-NeoForge.jar",
+      "provider": "modrinth",
+      "project_id": "QAGBst4M",
+      "version_id": "qbF2d7Ma",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "7a0f6e58728684c5099d9fa157a4a9a078019cfc263844506aa43ba87ee1c8f556e01f0b24cf96f9b6dd373bc5da714773f394442a6ad045b157d9a8a36ba5b4"
+      },
+      "download_url": "https://cdn.modrinth.com/data/QAGBst4M/versions/qbF2d7Ma/PuzzlesLib-v21.1.56-mc1.21.1-NeoForge.jar"
+    },
+    {
+      "filename": "DiagonalFences-v21.1.1-1.21.1-NeoForge.jar",
+      "provider": "modrinth",
+      "project_id": "IKARgflD",
+      "version_id": "bgR1e0O5",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "856e035193eb99264321e6d971881bad14baeb7196cb3ae75463457802dfb4d967eaec27a046e1290f074721fc1cd85d59adfd773a287b159a7baac1435c09d1"
+      },
+      "download_url": "https://cdn.modrinth.com/data/IKARgflD/versions/bgR1e0O5/DiagonalFences-v21.1.1-1.21.1-NeoForge.jar"
+    },
+    {
+      "filename": "jei-1.21.1-neoforge-19.52.0.423.jar",
+      "provider": "modrinth",
+      "project_id": "u6dRKJwZ",
+      "version_id": "cB8Q2Vb4",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "36142e1ec6342ee33151087ab5a84b5c36235fd12c6096cfb6d61a9f0a83209917c6951105c8144343cf9d711723980ea0067a51e9c6547c710d43e57e49e0dc"
+      },
+      "download_url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/cB8Q2Vb4/jei-1.21.1-neoforge-19.52.0.423.jar"
+    },
+    {
+      "filename": "create_mechanical_spawner-1.21.1-1.3.2-6.0.10.jar",
+      "provider": "modrinth",
+      "project_id": "T1hmeGi9",
+      "version_id": "k7Fepzl4",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "d7ec9b66a9461258bdfcf739bf46c151c78d8dbee2c8b839b14294af5d22b5e7cc39649b435440bc200ca87c863aa188c76e17d45d062818a0e55270d3e6f30c"
+      },
+      "download_url": "https://cdn.modrinth.com/data/T1hmeGi9/versions/k7Fepzl4/create_mechanical_spawner-1.21.1-1.3.2-6.0.10.jar"
+    },
+    {
+      "filename": "alexsmobs-1.22.17.jar",
+      "provider": "modrinth",
+      "project_id": "EmNhnNnt",
+      "version_id": "KSgki4uc",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "9f57f20693bb187c54f6d68dc34592b87d0e55a5a4628ad097b0aa39afe165f4a834b83b6590d803e64bac0b1230a8f46369bfe45851a3cc964cf3d88f235277"
+      },
+      "download_url": "https://cdn.modrinth.com/data/EmNhnNnt/versions/KSgki4uc/alexsmobs-1.22.17.jar"
+    },
+    {
+      "filename": "create_synthetic_pressure-1.0.1.jar",
+      "provider": "modrinth",
+      "project_id": "DFKpjlu6",
+      "version_id": "S3pAqL5x",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "e5bec19d591cbe9bf7891a29d0f46fe76e00c1244e9d5544d260057e36b822255e9ab00ba16717a38a511c394e08a912f283624c732aaeba872635029ad58cb9"
+      },
+      "download_url": "https://cdn.modrinth.com/data/DFKpjlu6/versions/S3pAqL5x/create_synthetic_pressure-1.0.1.jar"
+    },
+    {
+      "filename": "createaddition-1.7.0.jar",
+      "provider": "modrinth",
+      "project_id": "kU1G12Nn",
+      "version_id": "zlC557Yg",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "267779bf2a215a0be39748e6a8e387322df697bc9de8e7e9558e6885aa790a2e73f334a55bfc5f97f4130d22262011433675fd0830ab1e3e3b10c9898d8a702c"
+      },
+      "download_url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/zlC557Yg/createaddition-1.7.0.jar"
+    },
+    {
+      "filename": "cwb-neoforge-3.0.0+mc1.21.jar",
+      "provider": "modrinth",
+      "project_id": "ETlrkaYF",
+      "version_id": "epixUL1j",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "cbe2770179a948bc5cc7ab9fffdb65262745bb42902d03860cb6218708c1d5ffbabfafe40046dd350c3290ab9d07797bf0225ee4a41f917fff120b23b9d9cc04"
+      },
+      "download_url": "https://cdn.modrinth.com/data/ETlrkaYF/versions/epixUL1j/cwb-neoforge-3.0.0%2Bmc1.21.jar"
+    },
+    {
+      "filename": "create-1.21.1-6.0.10.jar",
+      "provider": "modrinth",
+      "project_id": "LNytGWDc",
+      "version_id": "UjX6dr61",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "11cc8fc049d2f67f6548c7abfada6b82a3adb5c7ca410a742de04bbca76e03862c518721b88d806f6e6d768a4d68531fdb903a85859b25d1484d550cc7bafd4b"
+      },
+      "download_url": "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar"
+    },
+    {
+      "filename": "YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+      "provider": "modrinth",
+      "project_id": "XNlO7sBv",
+      "version_id": "GQ9iNWkI",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "6454c955f75f66104810e967a59ae032ddf1ccc5a854346af6bfba6e44cd456e755cd8feb1e0968be4e9132ea6c5d1cb2126fe5e85d3eb18c8d3ea3c81ffdf9a"
+      },
+      "download_url": "https://cdn.modrinth.com/data/XNlO7sBv/versions/GQ9iNWkI/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar"
+    },
+    {
+      "filename": "create_avionics-neoforge-1.21.1-0.6.0.jar",
+      "provider": "modrinth",
+      "project_id": "h4nsLvjf",
+      "version_id": "9siqVCcu",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "da3a1cc9333db95781d466725939fd29a467cad21bea76df37e024b2bc0cd1a5c35c5d07ede17f101a2572cf96ba87555e506a8ad669ad8987a1e747fdad7ab6"
+      },
+      "download_url": "https://cdn.modrinth.com/data/h4nsLvjf/versions/9siqVCcu/create_avionics-neoforge-1.21.1-0.6.0.jar"
+    },
+    {
+      "filename": "sophisticatedcore-1.21.1-1.4.90.2299.jar",
+      "provider": "modrinth",
+      "project_id": "nmoqTijg",
+      "version_id": "zvRSOlro",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "aa335c59b20d93aedb88e59ec85c04121fa682fab1ea4a080d7b88d7b545db83ef7c019f2334f0aee5605da2a6997c442e58a295cf9656b57bba986bf2427104"
+      },
+      "download_url": "https://cdn.modrinth.com/data/nmoqTijg/versions/zvRSOlro/sophisticatedcore-1.21.1-1.4.90.2299.jar"
+    },
+    {
+      "filename": "modernfix-neoforge-5.27.24+mc1.21.1.jar",
+      "provider": "modrinth",
+      "project_id": "nmDcB62a",
+      "version_id": "5HLHxQ2F",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "da13fa15b2c96a74a7d5f8ea94ea404c96237b97d52c9a77e7e34ac918d28c40760a68cf3897691b317d5119ab9b85035142c3624108b13dda3516c340b96131"
+      },
+      "download_url": "https://cdn.modrinth.com/data/nmDcB62a/versions/5HLHxQ2F/modernfix-neoforge-5.27.24%2Bmc1.21.1.jar"
+    },
+    {
+      "filename": "CreateNumismatics-1.1.0+neoforge-mc1.21.1.jar",
+      "provider": "modrinth",
+      "project_id": "Jdbbtt0i",
+      "version_id": "kVi3TESX",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "f0a8e65828f4a36c500f4f2cad99dce89f4899711f3ebe4b8a691bf26a8be9ac8f83386507f87aaead712ab8c5f8a847cd06befb1927cb1f81de95f6cb6b7754"
+      },
+      "download_url": "https://cdn.modrinth.com/data/Jdbbtt0i/versions/kVi3TESX/CreateNumismatics-1.1.0%2Bneoforge-mc1.21.1.jar"
+    },
+    {
+      "filename": "create_mechanical_extruder-1.21.1-2.2.2-6.0.10.jar",
+      "provider": "modrinth",
+      "project_id": "hGAlcCDJ",
+      "version_id": "fFDOEXAA",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "efeb01312cb00800cc11e7765759b31058719e6a7c62744b453d242c4da7b75091b68eef2f489054a1244244a63672a46f4822a580eb8d8c64045a189e671827"
+      },
+      "download_url": "https://cdn.modrinth.com/data/hGAlcCDJ/versions/fFDOEXAA/create_mechanical_extruder-1.21.1-2.2.2-6.0.10.jar"
+    },
+    {
+      "filename": "entityculling-neoforge-1.10.5-mc1.21.1.jar",
+      "provider": "modrinth",
+      "project_id": "NNAgCjsB",
+      "version_id": "5zRIon6w",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "0c22502b84b13d8ac6daffe14ac77e7306b5b7a48f5cd9b3950d9e1d60b3786104aa035fbfdb208b1c9a75ad0e356301a774da32edc3f71cb3a53e2d28fd39e6"
+      },
+      "download_url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/5zRIon6w/entityculling-neoforge-1.10.5-mc1.21.1.jar"
+    },
+    {
+      "filename": "[1.21.1] SecurityCraft v1.10.2.1.jar",
+      "provider": "modrinth",
+      "project_id": "v8jzRtAt",
+      "version_id": "X9nq0PvS",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "5dcd5a43fd3086d15e1d00cdcdd6e305aece216d769466a809ca77044ec22a799a519504845ffd6fdfd95e632b050e9dbc5e32c918fd88ce3e0e240b587a6b4f"
+      },
+      "download_url": "https://cdn.modrinth.com/data/v8jzRtAt/versions/X9nq0PvS/%5B1.21.1%5D SecurityCraft v1.10.2.1.jar"
+    },
+    {
+      "filename": "exposure-neoforge-1.21.1-1.9.18.jar",
+      "provider": "modrinth",
+      "project_id": "hB899VmG",
+      "version_id": "KZR7AUbh",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "2c0310cfbc9abfcf9e589fdf1079829253e47eb3ac84684a643951ebc432536a4e6f6567a67fc8ba4f4d55036e513804ff0996adee6a8a11cf59c76399de5ef6"
+      },
+      "download_url": "https://cdn.modrinth.com/data/hB899VmG/versions/KZR7AUbh/exposure-neoforge-1.21.1-1.9.18.jar"
+    },
+    {
+      "filename": "entity_model_features-3.3.5-1.21-neoforge.jar",
+      "provider": "modrinth",
+      "project_id": "4I1XuqiY",
+      "version_id": "szv0UmJn",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "68761183a2dffee099800d3769eaa3f2c8f156b2c30102f20422b48914be914d9a929ca95837cf01c2d076679b291e338318938ae4fc927927925061aace2480"
+      },
+      "download_url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/szv0UmJn/entity_model_features-3.3.5-1.21-neoforge.jar"
+    },
+    {
+      "filename": "Create_Warnautics-1.0.8+mc.1.21.1.jar",
+      "provider": "modrinth",
+      "project_id": "DtRY2QQN",
+      "version_id": "YO1GPUvv",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "a7831cb7c0bc6c480aa7f359d44082865841275d8fa4487159ce0ad5145db88f73bfdab2e9629107221690b764a924be22188c0f51c10deff21680849b42b04f"
+      },
+      "download_url": "https://cdn.modrinth.com/data/DtRY2QQN/versions/YO1GPUvv/Create_Warnautics-1.0.8%2Bmc.1.21.1.jar"
+    },
+    {
+      "filename": "ferritecore-7.0.3-neoforge.jar",
+      "provider": "modrinth",
+      "project_id": "uXXizFIs",
+      "version_id": "x7kQWVju",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "19af89a2075bb10a63884fa853ebf84b02c79dc3242430ecdad056fd764fdcde367a7303276b329df01b0736e2ef264c5d80c7dc92c6aebd244f556a230bb417"
+      },
+      "download_url": "https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar"
+    },
+    {
+      "filename": "architectury-13.0.11-neoforge.jar",
+      "provider": "modrinth",
+      "project_id": "lhGA9TYQ",
+      "version_id": "1IiqEQGl",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "d9f7c3bb8162577dfb461ffdf04bd6a3563c7586934a0e2a744c14421beffb8286f0d88d4c758317003f20f99fe8072a39b9d675af061e036970d36db36027f0"
+      },
+      "download_url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1IiqEQGl/architectury-13.0.11-neoforge.jar"
+    },
+    {
+      "filename": "waystones-neoforge-1.21.1-21.1.42.jar",
+      "provider": "modrinth",
+      "project_id": "LOpKHB2A",
+      "version_id": "1gzy0HSm",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "8e925969a4d77df3c25fd1531a9b0eeb831cd0c9eee634a6353e6db4124d5b4199254946375d5d3c1dad5fa2c1813892edd0dff2c0df0c82391864932a024682"
+      },
+      "download_url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/1gzy0HSm/waystones-neoforge-1.21.1-21.1.42.jar"
+    },
+    {
+      "filename": "comforts-neoforge-9.0.5+1.21.1.jar",
+      "provider": "modrinth",
+      "project_id": "SaCpeal4",
+      "version_id": "3kpPjcTc",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "e9de2952545e9e773a6e78fc501e8cd231ea19750c30404355b71df9928eb5bd0921a4429aeca9d0fa10e67717f77fcf7a2aae117ac953b8f7de246b0ad685e4"
+      },
+      "download_url": "https://cdn.modrinth.com/data/SaCpeal4/versions/3kpPjcTc/comforts-neoforge-9.0.5%2B1.21.1.jar"
+    },
+    {
+      "filename": "drivebywire-typewriter-1.1.0-beta.2.jar",
+      "provider": "modrinth",
+      "project_id": "lDYpnxit",
+      "version_id": "cPM0cfwo",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "be2e34f84c2c31273be5282d3582f29ff16a4d53c38eaf197f7e49998e51e5a01eadad2962a1eb75e278084251373b433b74629943318438aae36360d67384e7"
+      },
+      "download_url": "https://cdn.modrinth.com/data/lDYpnxit/versions/cPM0cfwo/drivebywire-typewriter-1.1.0-beta.2.jar"
+    },
+    {
+      "filename": "create_simple_ore_doubling-1.6.0-neoforge-1.21.1.jar",
+      "provider": "modrinth",
+      "project_id": "7jXyH8Xk",
+      "version_id": "vfGKdqIi",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "0aded226ff09da90291e7375ea9f5f65fecc43ee05004c667913e4b8dbf5ac44df283a6bff7fae0a6b698107593807349e43fae0b14b8f8d5468c9103d5612b1"
+      },
+      "download_url": "https://cdn.modrinth.com/data/7jXyH8Xk/versions/vfGKdqIi/create_simple_ore_doubling-1.6.0-neoforge-1.21.1.jar"
+    },
+    {
+      "filename": "kotlinforforge-5.12.0-all.jar",
+      "provider": "modrinth",
+      "project_id": "ordsPcFz",
+      "version_id": "uhJhCT7X",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "b8c3942f4d33179edf3f102f3d870b99dd436f8b8236dbbd31aa51b888162c692cfd88927295f24dc8b4375232f4c6c17360c5d6c4823f93cbcd7cf4bdc8bd14"
+      },
+      "download_url": "https://cdn.modrinth.com/data/ordsPcFz/versions/uhJhCT7X/kotlinforforge-5.12.0-all.jar"
+    },
+    {
+      "filename": "simplyswords-neoforge-1.70.2-1.21.1.jar",
+      "provider": "modrinth",
+      "project_id": "bK3Ubu9p",
+      "version_id": "nS0Yahr5",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "9a231c0068318e7f62e3d5dfd81660b3f8efdcae9bcf83cfc3637c897fed29aac1941ef8007e8b29f0badfdce0c8047cfb73cd1ea486f25c69197384adfc8dcd"
+      },
+      "download_url": "https://cdn.modrinth.com/data/bK3Ubu9p/versions/nS0Yahr5/simplyswords-neoforge-1.70.2-1.21.1.jar"
+    },
+    {
+      "filename": "linearbearing-1.3.5.jar",
+      "provider": "modrinth",
+      "project_id": "ZTwCjE7O",
+      "version_id": "8SJdnoXS",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "c9862f34cac34c09109dec8257056f88228d0d751cf1c4f57627eff4cecfecae4c6685f8a06786b7a17f6ed21164a285b4b7242fd68dba0e22d2ad53d35eed78"
+      },
+      "download_url": "https://cdn.modrinth.com/data/ZTwCjE7O/versions/8SJdnoXS/linearbearing-1.3.5.jar"
+    },
+    {
+      "filename": "bits_n_bobs-2.2.9.jar",
+      "provider": "modrinth",
+      "project_id": "T8bvmqVZ",
+      "version_id": "wkaZQqvJ",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "a00e93cc975b83f89cf15a67b45374e27977d5087f647564433d1f5ac797572aa2de5f14cd2d923b2580800ac84300b298489f65967e82aef451e57222da2ba1"
+      },
+      "download_url": "https://cdn.modrinth.com/data/T8bvmqVZ/versions/wkaZQqvJ/bits_n_bobs-2.2.9.jar"
+    },
+    {
+      "filename": "YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+      "provider": "modrinth",
+      "project_id": "kidLKymU",
+      "version_id": "8U0dIfSM",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "385d67e07f2c67af5ea387d92d92949d8f671e8f99204457b6396dbe987ac3b14c2bff765df5fcbaa68016604f82a1fc6ec5a69c012ca22ad088d1a7c9bc135d"
+      },
+      "download_url": "https://cdn.modrinth.com/data/kidLKymU/versions/8U0dIfSM/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar"
+    },
+    {
+      "filename": "balm-neoforge-1.21.1-21.0.65.jar",
+      "provider": "modrinth",
+      "project_id": "MBAkmtvl",
+      "version_id": "KgypwTqX",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "779b4f9e9738ae6f010e87f71b2ed5a114eb9b1b3d5b55cf42ad538094e5b064a1d3f4ff00064aac90da1c841a144464d47378d9bffc448a71d87132cb954101"
+      },
+      "download_url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/KgypwTqX/balm-neoforge-1.21.1-21.0.65.jar"
+    },
+    {
+      "filename": "create_factory-0.7b-1.21.1.jar",
+      "provider": "modrinth",
+      "project_id": "j6Zt3N7W",
+      "version_id": "OA9Dvj5m",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "4acc37144a644ea0ddc1290e2419b2eb852e38faa48992f702afc2555162fcc8baa9b79c9dab2f77da57b5b530011ad737cf638ba4813053a63c43b3a554d485"
+      },
+      "download_url": "https://cdn.modrinth.com/data/j6Zt3N7W/versions/OA9Dvj5m/create_factory-0.7b-1.21.1.jar"
+    },
+    {
+      "filename": "create_hypertube-0.6.0-NEOFORGE.jar",
+      "provider": "modrinth",
+      "project_id": "ATDdrG1y",
+      "version_id": "qYjOyvgW",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "8405fb7f8bf7fff5811c29e8ed14acdea45ddc9487caec2c24ed5e7db4141b60e41b7a937645330180c74226bbb6b30359130e23929d53db1367be75c00585a9"
+      },
+      "download_url": "https://cdn.modrinth.com/data/ATDdrG1y/versions/qYjOyvgW/create_hypertube-0.6.0-NEOFORGE.jar"
+    },
+    {
+      "filename": "creategoggles-1.21.1-6.1.1-[NEOFORGE].jar",
+      "provider": "modrinth",
+      "project_id": "L1RT5SJc",
+      "version_id": "Co24W2FL",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "bf2c4167fdee64c3f43298c6fd2d9e347951d2fb8fc12e2c2bbafc486e8d690cd7ebfd536507d13a6b4c287236713f8d796c048df2356feda36542cf5b484afc"
+      },
+      "download_url": "https://cdn.modrinth.com/data/L1RT5SJc/versions/Co24W2FL/creategoggles-1.21.1-6.1.1-%5BNEOFORGE%5D.jar"
+    },
+    {
+      "filename": "ProjectRed-1.21.1-4.23.0-integration.jar",
+      "provider": "modrinth",
+      "project_id": "3JruZJb0",
+      "version_id": "iM7enYpN",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "490c2e15e3283b21541252f54e66e52271002c35c3ea1b70099081c4bd7058fddb05aa13bdd9fd4ae90850df2f53d2399fa947d7e08b421391120ba3b8f82006"
+      },
+      "download_url": "https://cdn.modrinth.com/data/3JruZJb0/versions/iM7enYpN/ProjectRed-1.21.1-4.23.0-integration.jar"
+    },
+    {
+      "filename": "GnKinetics-1.21.1-1.0m.jar",
+      "provider": "modrinth",
+      "project_id": "gEWECBVL",
+      "version_id": "qr9hMBnj",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "d55d0c5ba37e7d6c2c81a83843e577580ec4cf47e8a1833b9f236d35c1b5ce577edc2ef2d579c4c4cc42f0b6df3ddccb6f7f61b569c337edd907024e6ca91709"
+      },
+      "download_url": "https://cdn.modrinth.com/data/gEWECBVL/versions/qr9hMBnj/GnKinetics-1.21.1-1.0m.jar"
+    },
+    {
+      "filename": "Quark-4.1-482.jar",
+      "provider": "modrinth",
+      "project_id": "qnQsVE2z",
+      "version_id": "yvp3Jbmk",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "811e1e9f263a7e4951896a646507d6d03bebef6c38c113425e5d25acd4da0af9a07a6e5f9f11393cb41cb6f1a97667d7748c4bf21bf842e87ca2b05d6ea9cd81"
+      },
+      "download_url": "https://cdn.modrinth.com/data/qnQsVE2z/versions/yvp3Jbmk/Quark-4.1-482.jar"
+    },
+    {
+      "filename": "sablemassview-1.0.0.jar",
+      "provider": "modrinth",
+      "project_id": "f5uobnkD",
+      "version_id": "Dc1FsCO5",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "bc58d44e992a408195afb858ed9bc0120300bd4e3dc72376b9d5901818e99bed6daff7b7aec0187cbf422ed8254e40734bee3e86154cff58ebffe3e2b9b514b3"
+      },
+      "download_url": "https://cdn.modrinth.com/data/f5uobnkD/versions/Dc1FsCO5/sablemassview-1.0.0.jar"
+    },
+    {
+      "filename": "lambdynamiclights-4.8.11+1.21.1.jar",
+      "provider": "modrinth",
+      "project_id": "yBW8D80W",
+      "version_id": "ksaGCvSu",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "0286076e8b2922dfbe90cd4544a0d16e6d07d7249c732a37479ea4281e9cf96c86dd2e1ce5261489bd5553ceba33044bc550a04b9eb582645eb97f15c9c6a64c"
+      },
+      "download_url": "https://cdn.modrinth.com/data/yBW8D80W/versions/ksaGCvSu/lambdynamiclights-4.8.11%2B1.21.1.jar"
+    },
+    {
+      "filename": "lanserverproperties-1.13.2-neoforge.jar",
+      "provider": "modrinth",
+      "project_id": "SqnBX2qd",
+      "version_id": "C1Wg17Qf",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "da78b99c43be3e1d5c6864dda74424d5cb575fc9d0b3378165979e76ad360ae8086f01fc7b7ba60c2a8bb11e3c3b90c3f2a89e19b70d1146a8a6c8f7dd97b573"
+      },
+      "download_url": "https://cdn.modrinth.com/data/SqnBX2qd/versions/C1Wg17Qf/lanserverproperties-1.13.2-neoforge.jar"
+    },
+    {
+      "filename": "Quick Skin - NeoForge - 1.21.1-2.6.2.4.jar",
+      "provider": "modrinth",
+      "project_id": "zAIE84Ch",
+      "version_id": "INuI60Al",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "7f6eb037aba8df6110e30014217aee343a995f272ab781284c1387e93e15e30cdcd7364d2aaa755c1be7e291df2a484f52a581c100966c2239feeb20e41f964c"
+      },
+      "download_url": "https://cdn.modrinth.com/data/zAIE84Ch/versions/INuI60Al/Quick Skin - NeoForge - 1.21.1-2.6.2.4.jar"
+    },
+    {
+      "filename": "Northstar-0.6.4+1.21.1.jar",
+      "provider": "modrinth",
+      "project_id": "UZiq3QVW",
+      "version_id": "COjXrpwb",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "dc7acf1307c8ca605442d48270807329fa3d03d0513fdac1d4f2f73674ee111f63528a7b011ce61aad1eb749246e129ed1e3e3cfce7be8dba14e5fb4e359900e"
+      },
+      "download_url": "https://cdn.modrinth.com/data/UZiq3QVW/versions/COjXrpwb/Northstar-0.6.4%2B1.21.1.jar"
+    },
+    {
+      "filename": "xaerominimap-neoforge-1.21.1-26.4.2.jar",
+      "provider": "modrinth",
+      "project_id": "1bokaNcj",
+      "version_id": "JXvcT1hp",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "7ece42b6665cb3a83d77bca1ae9ab31e9f418a7e0ee73f4be1839b62a8dde7e2727d554b6ed056ca4e7510c1aaa6603e5caaa62355bca9ff202171df73ac49ee"
+      },
+      "download_url": "https://cdn.modrinth.com/data/1bokaNcj/versions/JXvcT1hp/xaerominimap-neoforge-1.21.1-26.4.2.jar"
+    },
+    {
+      "filename": "create-renewable-diamonds-1.0.1.jar",
+      "provider": "modrinth",
+      "project_id": "IxTis4hc",
+      "version_id": "YbXuduVa",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "e92f21462a25f766a6ba82cae2b71c0491fff54cb40e533646cb57f6fe1cd88ae96ce24236225efb94b3241af7850cfe8bee27269eb6ea0bc7d67cbb56430029"
+      },
+      "download_url": "https://cdn.modrinth.com/data/IxTis4hc/versions/YbXuduVa/create-renewable-diamonds-1.0.1.jar"
+    },
+    {
+      "filename": "ae2wtlib-19.5.1.jar",
+      "provider": "modrinth",
+      "project_id": "pNabrMMw",
+      "version_id": "CxSEpEnO",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "0659d755c6ae91551d30c20b948d5bde0a39b2ae9825b1a4e132f0bbd10e032f18d82b6847261360589f36980ed3597ef6c6947b680523a1de767a9b7953682e"
+      },
+      "download_url": "https://cdn.modrinth.com/data/pNabrMMw/versions/CxSEpEnO/ae2wtlib-19.5.1.jar"
+    },
+    {
+      "filename": "interiors-1.21.1-neoforge-0.6.1.jar",
+      "provider": "modrinth",
+      "project_id": "r4Knci2k",
+      "version_id": "gBrfZy6S",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "68b0d915e41fb0ce9d12a8c580d688a604770ded2b21e963058aa6d80cbc5661c481416d051a541395b5c79f461edcb658046e53cfcfb405179a450662ed01b5"
+      },
+      "download_url": "https://cdn.modrinth.com/data/r4Knci2k/versions/gBrfZy6S/interiors-1.21.1-neoforge-0.6.1.jar"
+    },
+    {
+      "filename": "northstar_structures-1.0.1.jar",
+      "provider": "modrinth",
+      "project_id": "eqWqcloq",
+      "version_id": "9FEs1ITm",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "333dffbb6a8b5ddaa562303f6c5d16a43ebb161ba6b06b3f9bd6ac7549a6e019bbbefeaa8fb5a76181d1eb6078830ff3aef34b803520da48dd37a4b666adcf5f"
+      },
+      "download_url": "https://cdn.modrinth.com/data/eqWqcloq/versions/9FEs1ITm/northstar_structures-1.0.1.jar"
+    },
+    {
+      "filename": "powergrid-mc1.21.1-0.6.1.jar",
+      "provider": "modrinth",
+      "project_id": "eWiBLJ9R",
+      "version_id": "ip4gJrgx",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "d5d7075b1977b449f196468963cdf24910844823ea0c67d7a3698ac4702e399978337b38aaf60b6cf7ebb089f712cb8b2dc0c2920e6bf39273bae608de5c13c4"
+      },
+      "download_url": "https://cdn.modrinth.com/data/eWiBLJ9R/versions/ip4gJrgx/powergrid-mc1.21.1-0.6.1.jar"
+    },
+    {
+      "filename": "L_Ender's Cataclysm 1.21.1-3.33.jar",
+      "provider": "modrinth",
+      "project_id": "46KJle7n",
+      "version_id": "mYBUDZWl",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "359ad3681aba479486519a79fd227afc608b66d2843afe1f6c7196da6807683792b4ecea761e824f15b03d13d6ff29380b439bdd5bb1d2472a065ae8e83743d9"
+      },
+      "download_url": "https://cdn.modrinth.com/data/46KJle7n/versions/mYBUDZWl/L_Ender%27s Cataclysm 1.21.1-3.33.jar"
+    },
+    {
+      "filename": "SimplyTools-21.1.3.jar",
+      "provider": "modrinth",
+      "project_id": "v7uAVl86",
+      "version_id": "atmziQQo",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "24c366cd2ca810dd30cab0ca5303b5407f79c51016baa3c0506901a1f70f6124e418fd2552d96837514c21866b40d961d0d4ecc2facf5ea9b8b5bc264d0d1fcf"
+      },
+      "download_url": "https://cdn.modrinth.com/data/v7uAVl86/versions/atmziQQo/SimplyTools-21.1.3.jar"
+    },
+    {
+      "filename": "Iceberg-1.21.1-neoforge-1.3.2.jar",
+      "provider": "modrinth",
+      "project_id": "5faXoLqX",
+      "version_id": "IMssx9du",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "19d33195cfee0a640f40fb64d82346df7ac970ddb43ed68ba2dacb4793b18d577fd57dd43a4c2e94f731487c024b8d7ebcc52721764ec9d8a87bd68fc7df5c96"
+      },
+      "download_url": "https://cdn.modrinth.com/data/5faXoLqX/versions/IMssx9du/Iceberg-1.21.1-neoforge-1.3.2.jar"
+    },
+    {
+      "filename": "mru-1.0.33+1.21.1-neoforge.jar",
+      "provider": "modrinth",
+      "project_id": "SNVQ2c0g",
+      "version_id": "hKkYQw1y",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "257c3ab9a0706d7ecd6362e291211f3b853e5133d4e60cce5aec88e97e9142a1136f712f26a8673fb97acfb77f34abba23e97858df39ca5a3de9b89473eb6c0d"
+      },
+      "download_url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/hKkYQw1y/mru-1.0.33%2B1.21.1-neoforge.jar"
+    },
+    {
+      "filename": "geckolib-neoforge-1.21.1-4.9.2.jar",
+      "provider": "modrinth",
+      "project_id": "8BmcQJ2H",
+      "version_id": "tPkJmim6",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "c91012b16cc40c8f48f69b78cb8e2e5c006486ae2431fbd289dfc01be7a4217294becea22d83a155d6b32b3969450df871352a3695e1452168b84f41355f7b9e"
+      },
+      "download_url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/tPkJmim6/geckolib-neoforge-1.21.1-4.9.2.jar"
+    },
+    {
+      "filename": "RoughlyEnoughItems-16.0.799-neoforge.jar",
+      "provider": "modrinth",
+      "project_id": "nfn13YXA",
+      "version_id": "b8gfS9Je",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "9b7fb8071813c348d07283b8651aa589ec334dc060d076422b988eae9e0f6e9598c721cbe39462daf68b93e0f88c2f70e5a655ff24bc644abfe5eb2b1099812c"
+      },
+      "download_url": "https://cdn.modrinth.com/data/nfn13YXA/versions/b8gfS9Je/RoughlyEnoughItems-16.0.799-neoforge.jar"
+    },
+    {
+      "filename": "bobberdetector-neoforge1.21.1-1.0.3.jar",
+      "provider": "modrinth",
+      "project_id": "GRznXwf3",
+      "version_id": "wZOzsLr6",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "ff9c8143b90b64c184ce75e83733089e4d416e1b629395cbb22d2a427ea853be9e3e11bbba960c87f439f9d817fe07b465b1c82d6017d6aff36a417b540e1671"
+      },
+      "download_url": "https://cdn.modrinth.com/data/GRznXwf3/versions/wZOzsLr6/bobberdetector-neoforge1.21.1-1.0.3.jar"
+    },
+    {
+      "filename": "createdieselgenerators-1.21.1-1.3.15.jar",
+      "provider": "modrinth",
+      "project_id": "ZM3tt6p1",
+      "version_id": "UoPH8lO1",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "1507ebcd07d3185aac3ae6ce768b4d6bab16cb6f39776d25a850c8133a4dc5826b8ddbeca112d76afc64deaa37ec177cac4237c6c34621c4b65e73d83f8ab43f"
+      },
+      "download_url": "https://cdn.modrinth.com/data/ZM3tt6p1/versions/UoPH8lO1/createdieselgenerators-1.21.1-1.3.15.jar"
+    },
+    {
+      "filename": "azimuth-1.4.8.jar",
+      "provider": "modrinth",
+      "project_id": "RpH8tmT1",
+      "version_id": "82WgkpfK",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "9faf97c9b6eb38bf3187977e660e89530c2a6e862f50380b4628e839d89cee27f1b32ff94d1283200796d816d3325c2dbd00a0d3f49898a50c3f235e0b02038c"
+      },
+      "download_url": "https://cdn.modrinth.com/data/RpH8tmT1/versions/82WgkpfK/azimuth-1.4.8.jar"
+    },
+    {
+      "filename": "t_and_t-fabric-neoforge-1.13.11.jar",
+      "provider": "modrinth",
+      "project_id": "DjLobEOy",
+      "version_id": "DZxwgj6V",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "7464b1556250ceee25b4b531e07f65568c98a9d26f97232c1f6016be63ff243891de8283e072981deb968ea7d8b83bdc1579ee842b6b792446f4c26a43af4b62"
+      },
+      "download_url": "https://cdn.modrinth.com/data/DjLobEOy/versions/DZxwgj6V/t_and_t-fabric-neoforge-1.13.11.jar"
+    },
+    {
+      "filename": "create_tools_n_weapons-1.0.1-neoforge-1.21.1.jar",
+      "provider": "modrinth",
+      "project_id": "2aBDweGI",
+      "version_id": "fd0dltow",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "bb08cea92137e0830a0e46049761f8af69af2d899009c3145886157bfadbc0323c7912d087a7abeaec07925ed076dad2f01c2c78a7c16834d0ab47baa7630c51"
+      },
+      "download_url": "https://cdn.modrinth.com/data/2aBDweGI/versions/fd0dltow/create_tools_n_weapons-1.0.1-neoforge-1.21.1.jar"
+    },
+    {
+      "filename": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "provider": "modrinth",
+      "project_id": "kkmrDlKT",
+      "version_id": "6e8GCrLb",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "9d4b2a1be5139c0fb2fad92ed21805b17d9e83b6ea48e637e018bb14063c1823a206390755dbfe8d025c20fd62ac11cdd84db53ddb956dabaeda01bff57bac50"
+      },
+      "download_url": "https://cdn.modrinth.com/data/kkmrDlKT/versions/6e8GCrLb/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
+    },
+    {
+      "filename": "cloth-config-15.0.140-neoforge.jar",
+      "provider": "modrinth",
+      "project_id": "9s6osm5g",
+      "version_id": "izKINKFg",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "aaf9b010955b8cd294e5a92f069985b18729fd5e2cf22d351f1dff9680f15488688803ec41e77e941cbde130ceb535014ca4c868047d80ab69c2d508e216654d"
+      },
+      "download_url": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar"
+    },
+    {
+      "filename": "uranus-2.4.1-1.21.1-neoforge.jar",
+      "provider": "modrinth",
+      "project_id": "3Acxy864",
+      "version_id": "1YdU56pR",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "bb7119fc18ed36095daa8dc0caffd5c5c3357ff1bae0ffce4edbab965d8a57a0fb7c63b7e07c1c790ffa4477a4cfc7625b0b23214b9ec7c5cfa10b7f0caa89b7"
+      },
+      "download_url": "https://cdn.modrinth.com/data/3Acxy864/versions/1YdU56pR/uranus-2.4.1-1.21.1-neoforge.jar"
+    },
+    {
+      "filename": "lithium-neoforge-0.15.4+mc1.21.1.jar",
+      "provider": "modrinth",
+      "project_id": "gvQqBUqZ",
+      "version_id": "DDUrRVCA",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "2735da2088b88a8bdcd4ad02a2b6fffbfd3925557cefd4fa54b5477dfb9e582ea7f521300c060f57dff1325dd21bff276b7333363ad3371ed6893e3de9eca9cd"
+      },
+      "download_url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/DDUrRVCA/lithium-neoforge-0.15.4%2Bmc1.21.1.jar"
+    },
+    {
+      "filename": "curios-neoforge-9.5.1+1.21.1.jar",
+      "provider": "modrinth",
+      "project_id": "vvuO3ImH",
+      "version_id": "yohfFbgD",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "5981a267686b744e7e3c227f78cbcd5267c14ac6979a28e814695f4589273998563147207fef4a5cdb7cdbdc39797cd95d9e4abadb55869f18e02a38d0654ae5"
+      },
+      "download_url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/yohfFbgD/curios-neoforge-9.5.1%2B1.21.1.jar"
+    },
+    {
+      "filename": "cc-cbc-v1.1.1-1.21.1-neoforge.jar",
+      "provider": "modrinth",
+      "project_id": "zA9Klldw",
+      "version_id": "naLCoIB4",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "0bb9959fc21c940e307430225bcf8f3878092dbacb073b16f6e47c06057ea5b67bb2ce4a2f9bc8d4acd5784061e7212267c7eeb3b02eaecbded1234b4cc284a5"
+      },
+      "download_url": "https://cdn.modrinth.com/data/zA9Klldw/versions/naLCoIB4/cc-cbc-v1.1.1-1.21.1-neoforge.jar"
+    },
+    {
+      "filename": "tracks_plus-1.0.6b2.jar",
+      "provider": "modrinth",
+      "project_id": "E8eHF2Yl",
+      "version_id": "aknIwLJT",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "717b58794601519a135991ad98fea746191d215f633eb46b5f08fa418b471cac5330cc2d7911a00b1d5e4eb1c5d2631baa0d0f35cb83991323727b0507a359f3"
+      },
+      "download_url": "https://cdn.modrinth.com/data/E8eHF2Yl/versions/aknIwLJT/tracks_plus-1.0.6b2.jar"
+    }
+  ]
+}
