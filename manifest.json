@@ -884,6 +884,17 @@
       "download_url": "https://cdn.modrinth.com/data/cl223EMc/versions/Sduz0AWP/cristellib-neoforge-1.21.1-3.1.7.jar"
     },
     {
+      "filename": "crystalix-3.0.0.jar",
+      "provider": "modrinth",
+      "project_id": "tnxhDX6A",
+      "version_id": "yY0NLBUp",
+      "hash": {
+        "algorithm": "sha512",
+        "value": "67753f5eaa347ec3a0498e18da663e11e93647a3047e1d185ecffe8e85ab438c211fd26cdf14e41cb132bfddd8814c44a2b02c23d691a6632cb162252865250a"
+      },
+      "download_url": "https://cdn.modrinth.com/data/tnxhDX6A/versions/yY0NLBUp/crystalix-3.0.0.jar"
+    },
+    {
       "filename": "cwb-neoforge-3.0.0+mc1.21.jar",
       "provider": "modrinth",
       "project_id": "ETlrkaYF",
@@ -1203,6 +1214,17 @@
       "download_url": "https://cdn.modrinth.com/data/XbiLGMMU/versions/Jpcw76rq/jupiter-2.3.7-1.21.1-neoforge.jar"
     },
     {
+      "filename": "justdirethings-1.5.7.jar",
+      "provider": "curseforge",
+      "project_id": "1002348",
+      "version_id": "7463040",
+      "hash": {
+        "algorithm": "sha1",
+        "value": "f0327d7d2f389020063849200a4128ac9dcb52da"
+      },
+      "download_url": "https://edge.forgecdn.net/files/7463/040/justdirethings-1.5.7.jar"
+    },
+    {
       "filename": "justzoom_neoforge_2.1.0_MC_1.21.1.jar",
       "provider": "modrinth",
       "project_id": "iAiqcykM",
@@ -1333,6 +1355,17 @@
         "value": "84bfcd2cbd061eb1516fc2adbca0e599a38372b80ef9f5713de70be48d072243b1c5cb84c13177c35f333b6bcf16aa1f70dbd0964ed18e14c2bff733c531c6bc"
       },
       "download_url": "https://cdn.modrinth.com/data/ProvjTA7/versions/GBSlpwLT/mechanicals-1.21.1-1.1.6.jar"
+    },
+    {
+      "filename": "mob_grinding_utils-1.1.10+mc1.21.1.jar",
+      "provider": "curseforge",
+      "project_id": "254241",
+      "version_id": "6804869",
+      "hash": {
+        "algorithm": "sha1",
+        "value": "3dffde016ec61eb3961453e7142c85d11a4f4127"
+      },
+      "download_url": "https://edge.forgecdn.net/files/6804/869/mob_grinding_utils-1.1.10%2Bmc1.21.1.jar"
     },
     {
       "filename": "moonlight-1.21.1-3.6.1-neoforge.jar",
