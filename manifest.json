@@ -224,6 +224,17 @@
       "download_url": "https://cdn.modrinth.com/data/LmvnWWSV/versions/mhteXGK9/CBMultipart-1.21.1-3.5.0.155.jar"
     },
     {
+      "filename": "CBCmoreshells-1.2.3.jar",
+      "provider": "curseforge",
+      "project_id": "1489732",
+      "version_id": "8612686",
+      "hash": {
+        "algorithm": "sha1",
+        "value": "6f400cac6a3e1d8d2c97e37a028fdc962d50769e"
+      },
+      "download_url": "https://edge.forgecdn.net/files/8612/686/CBCmoreshells-1.2.3.jar"
+    },
+    {
       "filename": "cc-cbc-v1.1.1-1.21.1-neoforge.jar",
       "provider": "modrinth",
       "project_id": "zA9Klldw",
@@ -752,6 +763,17 @@
       "download_url": "https://cdn.modrinth.com/data/7jXyH8Xk/versions/vfGKdqIi/create_simple_ore_doubling-1.6.0-neoforge-1.21.1.jar"
     },
     {
+      "filename": "morepropulsion-1.4.0.jar",
+      "provider": "curseforge",
+      "project_id": "1603705",
+      "version_id": "8746527",
+      "hash": {
+        "algorithm": "sha1",
+        "value": "a5bad311eeecbf2aaa42eba081a86afb9a873cbc"
+      },
+      "download_url": "https://edge.forgecdn.net/files/8746/527/morepropulsion-1.4.0.jar"
+    },
+    {
       "filename": "create_synthetic_pressure-1.0.1.jar",
       "provider": "modrinth",
       "project_id": "DFKpjlu6",
@@ -1005,6 +1027,28 @@
       "download_url": "https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar"
     },
     {
+      "filename": "ftb-library-neoforge-2101.1.35.jar",
+      "provider": "curseforge",
+      "project_id": "404465",
+      "version_id": "8569579",
+      "hash": {
+        "algorithm": "sha1",
+        "value": "9922fa358983120edeed22194bf02bcf9c859fbb"
+      },
+      "download_url": "https://edge.forgecdn.net/files/8569/579/ftb-library-neoforge-2101.1.35.jar"
+    },
+    {
+      "filename": "ftb-teams-neoforge-2101.1.11.jar",
+      "provider": "curseforge",
+      "project_id": "404468",
+      "version_id": "8724782",
+      "hash": {
+        "algorithm": "sha1",
+        "value": "62b65f752d0326edd13244e58d5f2aec035da4e9"
+      },
+      "download_url": "https://edge.forgecdn.net/files/8724/782/ftb-teams-neoforge-2101.1.11.jar"
+    },
+    {
       "filename": "fzzy_config-0.7.6+1.21+neoforge.jar",
       "provider": "modrinth",
       "project_id": "hYykXjDp",
@@ -1080,6 +1124,17 @@
         "value": "8405fb7f8bf7fff5811c29e8ed14acdea45ddc9487caec2c24ed5e7db4141b60e41b7a937645330180c74226bbb6b30359130e23929d53db1367be75c00585a9"
       },
       "download_url": "https://cdn.modrinth.com/data/ATDdrG1y/versions/qYjOyvgW/create_hypertube-0.6.0-NEOFORGE.jar"
+    },
+    {
+      "filename": "iceandfire-2.1.2.jar",
+      "provider": "curseforge",
+      "project_id": "1040076",
+      "version_id": "8757837",
+      "hash": {
+        "algorithm": "sha1",
+        "value": "0786f4142b7cabd958688f68beef3e63e9c0ae8b"
+      },
+      "download_url": "https://edge.forgecdn.net/files/8757/837/iceandfire-2.1.2.jar"
     },
     {
       "filename": "Iceberg-1.21.1-neoforge-1.3.2.jar",
@@ -1322,6 +1377,17 @@
         "value": "fa6fbe15ecf3d1a9621849274e97895b277762c334609a96d20714e469b2dd6b1a04d333077acf126aed1e1fb5222a5de7331525eb5eef17d93cab59573c5ba4"
       },
       "download_url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/BLB7ktFs/naturalist-2.0.3-neoforge-1.21.1.jar"
+    },
+    {
+      "filename": "cfm+nfm-neoforge-2026.08.28-1.21.1.jar",
+      "provider": "curseforge",
+      "project_id": "593876",
+      "version_id": "8756345",
+      "hash": {
+        "algorithm": "sha1",
+        "value": "3f45a70df9bc3b049725531b6bb3e888ddc729ad"
+      },
+      "download_url": "https://edge.forgecdn.net/files/8756/345/cfm%2Bnfm-neoforge-2026.08.28-1.21.1.jar"
     },
     {
       "filename": "CreateNumismatics-1.1.0+neoforge-mc1.21.1.jar",
