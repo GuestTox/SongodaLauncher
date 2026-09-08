@@ -1,4 +1,4 @@
-markdown_content = """# 🚀 Songoda Launcher
+# 🚀 Songoda Launcher
 
 <div align="center">
 
