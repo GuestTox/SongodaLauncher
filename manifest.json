@@ -1302,15 +1302,15 @@
       "download_url": "https://cdn.modrinth.com/data/SqnBX2qd/versions/C1Wg17Qf/lanserverproperties-1.13.2-neoforge.jar"
     },
     {
-      "filename": "LibX-1.21.1-6.0.14.jar",
-      "provider": "modrinth",
-      "project_id": "qEH6GYul",
-      "version_id": "hqDl08eX",
+      "filename": "LibX-1.21.1-6.0.15.jar",
+      "provider": "curseforge",
+      "project_id": "412525",
+      "version_id": "8813062",
       "hash": {
-        "algorithm": "sha512",
-        "value": "8a3e08eb3455583ad9c901c3223ffc49881b812cb46a37a0b7920b0ff0e949df9f89ba00aa331c54f48359b978689cda37238d2e35fe3856a67506b33fbf3803"
+        "algorithm": "sha1",
+        "value": "2361a1abbb4a55dd729fb90c6df41d31864dacc6"
       },
-      "download_url": "https://cdn.modrinth.com/data/qEH6GYul/versions/hqDl08eX/LibX-1.21.1-6.0.14.jar"
+      "download_url": "https://edge.forgecdn.net/files/8813/062/LibX-1.21.1-6.0.15.jar"
     },
     {
       "filename": "linearbearing-1.3.5.jar",
@@ -1377,6 +1377,17 @@
         "value": "fabf0c99cb55255bca5251fdf90b994815bfab25697a8edca0e8d3663db5df0d761288ba5144179d3f87f6edfd4edec71bd867f07d7ed48117d8993db52cb9e0"
       },
       "download_url": "https://cdn.modrinth.com/data/twkfQtEc/versions/o9IoOg6k/moonlight-1.21.1-3.6.1-neoforge.jar"
+    },
+    {
+      "filename": "MoreVanillaTools-21.1.2.jar",
+      "provider": "curseforge",
+      "project_id": "349504",
+      "version_id": "6666757",
+      "hash": {
+        "algorithm": "sha1",
+        "value": "bffcd2c10d9b627468c8c780ba359a6c4ea779fe"
+      },
+      "download_url": "https://edge.forgecdn.net/files/6666/757/MoreVanillaTools-21.1.2.jar"
     },
     {
       "filename": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
